@@ -1,0 +1,55 @@
+{
+  "Version": "1.2.6",
+  "ModID": "jakob-modular-factories",
+  "DeprecateIds": [
+    "jakob_modular_factories"
+  ],
+  "ModDependencies": [
+    "shared-products-jakob",
+    "shared-pools-and-definitions"
+  ],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Building",
+    "Chinese": "Building",
+    "French": "Building",
+    "German": "Building",
+    "Italian": "Building",
+    "Japanese": "Building",
+    "Korean": "Building",
+    "Polish": "Building",
+    "Russian": "Building",
+    "Spanish": "Building",
+    "Taiwanese": "Building"
+  },
+  "ModName": {
+    "English": "Modular Factories (Jakob)",
+    "Chinese": "Modular Factories (Jakob)",
+    "French": "Modular Factories (Jakob)",
+    "German": "Modular Factories (Jakob)",
+    "Italian": "Modular Factories (Jakob)",
+    "Japanese": "Modular Factories (Jakob)",
+    "Korean": "Modular Factories (Jakob)",
+    "Polish": "Modular Factories (Jakob)",
+    "Russian": "Modular Factories (Jakob)",
+    "Spanish": "Modular Factories (Jakob)",
+    "Taiwanese": "Modular Factories (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "# Modular Factories\n\nFactory buildings merge into bigger factory blocks like engineer and investor residences do.\n\nYou find the buildings in the respective production chain menus.\n\nThe buildings are intended visual alternatives without any gameplay benefit.\nTheir cost and cycles are adjusted to their changed footprint.\n\n### Buildings\n\n- Sewing Machines: 7 variations, 4x4 tiles, 1/3 cost and production cycles.\n- (Tools are part of the `[Shared] Extra Goods (Jakob)` mod)\n- more will follow ...\n\n## Changes\n\n- 1.2.6: Russian translation\n- 1.2.5: Fixed blurry icons\n- 1.2.3: Added item effect pool to avoid double mention of Sewing Machine Factory\n- 1.2: Added Sewing Machines to boostable factories menu\n- 1.2: Added LODs\n- 1.1: Fixed missing models\n\n## Translations\n\nAvailable: Chinese, French, English, German, Japanese, Polish, Spanish\n\nThanks to HeroOfOlympus, darknesswei, Tonton Yip, mfuegar, DrD_AVEL for the translations!\n",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

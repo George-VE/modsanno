@@ -1,0 +1,61 @@
+{
+  "Version": "2.4.3",
+  "ModID": "jakob_terraced_houses",
+  "DeprecateIds": [
+    "jakob_upgradable_low_tier"
+  ],
+  "ModDependencies": [
+    "shared-products-jakob"
+  ],
+  "Category": {
+    "English": "Addon",
+    "Chinese": "Addon",
+    "French": "Addon",
+    "German": "Addon",
+    "Italian": "Addon",
+    "Japanese": "Addon",
+    "Korean": "Addon",
+    "Polish": "Addon",
+    "Russian": "Addon",
+    "Spanish": "Addon",
+    "Taiwanese": "Addon"
+  },
+  "ModName": {
+    "English": "Terraced Houses (Jakob)",
+    "Chinese": "Terraced Houses (Jakob)",
+    "French": "Terraced Houses (Jakob)",
+    "German": "Terraced Houses (Jakob)",
+    "Italian": "Terraced Houses (Jakob)",
+    "Japanese": "Terraced Houses (Jakob)",
+    "Korean": "Terraced Houses (Jakob)",
+    "Polish": "Terraced Houses (Jakob)",
+    "Russian": "Terraced Houses (Jakob)",
+    "Spanish": "Terraced Houses (Jakob)",
+    "Taiwanese": "Terraced Houses (Jakob)"
+  },
+  "DLCDependencies": [
+    {
+      "DLC": "Highlife",
+      "Dependant": "required"
+    },
+    {
+      "DLC": "Docklands",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "# Upgradable Workers\n\nTerraced versions of worker and artisan residences using Skyscraper mechanics.\n\nNote: Pescatarian workers, artisans do not upgrade.\n\n## Requirements\n\n- Activated DLC `The High Life`\n- Mod `[Shared] Ground Textures`\n- Either Mod `[Shared] Shared Goods` or DLC `Docklands`\n\n## Buildings\n\nYou can either use the skyscraper upgrade button (recommended), or the build menu as a fallback in case of mod conflicts.\n\nUse short-cut \"I\" to get into skyscraper upgrade mode before unlocking engineer/investor skyscrapers.\n\nThere is no cross progression from upgraded residences to their next population tier.\nYou have to downgrade to normal residences first - just like the skyscrapers handle it. This is due to technical reasons.\n\n### Workers\n\n- Level 1: 30 workers\n- Level 2: 40 workers\n\n### Artisans\n\n- Level 1: 50 artisans\n- Level 2: 70 artisans\n\n### Farmers\n\n- `[Addon] Pescatarians (Jakob)` workers and artisans provide extra farmer workforce.\n\n### Stone Pavement\n\n- Also function as street.\n- Adds Shift+V variations with this ground to various City Decoration and City Lights Pack ornaments.\n\n## Products\n\nAll products are available as Dockland imports, or can be produced with `[Shared] Extra Goods (Jakob)`.\n\n- Canned Fish\n- Tea\n- Suits\n- Tools\n\n## Known Issues\n\n- (workers only) The game always prefers one direction when building a single row of houses. You have to rotate such a building everytime you place or upgrade it or its neighbors.\n- The arrows for skyscraper upgrade don't show sometimes. The buildings will upgrade if you click anyway.\n\n## Changes\n\n### 2.4\n\n- 2.4.3: Russian translation\n- 2.4.2: Updated Spanish translations\n- 2.4.1: Fixed blurry icons\n- Added green roof skin\n- Immediately unlock in creative mode\n- Included `Modular Factories`, `Dockland Gates` and `Railway Stations` as sub-mods\n- Increased income from tea\n- Fixed unlocks when High Life DLC is not owned\n\n### 2.3\n\n- 2.3.7: Slightly increased tea consumption\n- 2.3.6: Allow rotation before placing a residence\n- 2.3.6: Change picking asset to level 1 worker, artisan instead of farmers\n- 2.3.6: Change stone pavement street icon\n- 2.3.5: New residence icons\n- 2.3.4: Included fix for Harborlife in case you forgot to update Harborlife\n- 2.3.3: Fixed automatic variation to work with new GU16 handling\n- 2.3.2: Fixed missing skin icons\n- Replaced Cheese with Tea. Cheese is now an alternative lifestyle need for Sausages.\n\n### Older\n\n- 2.2: Improved Russian translation (thanks to @m_belonosov)\n- 2.2: Moved stone pavement to separate menu with City Decoration (new) and City Lights Pack (more) ornaments.\n- 2.1: Fixed buff issues\n- 2.1: Visual + performance improvement\n- 2.0: Added Artisans 🥳\n\n## Translations\n\nAvailable: all\n\nThanks to m_belonosov, redzmey1, MSHS, Petritant, Aveneger432, darknesswei, Tonton Yip, mfuegar, DrD_AVEL for the translations!\n\n[Project on GitHub](https://github.com/jakobharder/anno-1800-jakobs-mods)\n",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

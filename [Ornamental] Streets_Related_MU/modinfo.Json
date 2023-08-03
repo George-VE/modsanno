@@ -1,0 +1,78 @@
+{
+  "Version": "1.4",
+  "ModID": "Streets_Related_MU",
+  "LoadAfterIds": [
+    "A_Modified_Ornaments_Tab",
+	"Shared_Objects_MU"
+  ],
+  "IncompatibleIds": [],
+  "ModDependencies": [ 
+	"A_Modified_Ornaments_Tab",
+	"Shared_Objects_MU",
+	"Green_Mile_MU",
+	"jakob_street_skins"
+  ],
+  "Category": {
+    "Chinese": "Ornamental",
+    "English": "Ornamental",
+    "French": "Ornamental",
+    "German": "Ornamental",
+    "Italian": "Ornamental",
+    "Japanese": "Ornamental",
+    "Korean": "Ornamental",
+    "Polish": "Ornamental",
+    "Russian": "Ornamental",
+    "Spanish": "Ornamental",
+    "Taiwanese": "Ornamental"
+  },
+    "ModName": {
+    "Chinese": "Streets_Related_MU",
+    "English": "Streets_Related_MU",
+    "French": "Streets_Related_MU",
+    "German": "Streets_Related_MU",
+    "Italian": "Streets_Related_MU",
+    "Japanese": "Streets_Related_MU",
+    "Korean": "Streets_Related_MU",
+    "Polish": "Streets_Related_MU",
+    "Russian": "Streets_Related_MU",
+    "Spanish": "Streets_Related_MU",
+    "Taiwanese": "Streets_Related_MU"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "In the future, this mod will contain all my modifications that are directly related to the topic \"Streets\".\nStreet mods from City_Ornaments or Harbor_Ornaments are included.",
+    "French": "À l'avenir, ce mod contiendra toutes mes modifications directement liées au sujet \"Rues\".\nLes modifications de rue de City_Ornaments ou Harbor_Ornaments sont incluses.",
+    "German": "Dieser Mod wird in Zukunft alle meine Modifikationen enthalten,welche direkt mit dem Thema \"Strassen\" zu tun haben.\nStraßenmodifikationen von City_Ornaments oder Harbor_Ornaments sind enthalten.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "W przyszłości ten mod będzie zawierał wszystkie moje modyfikacje, które są bezpośrednio związane z tematem \"drogi\".\nUwzględnione są modyfikacje ulic City_Ornaments lub Harbor_Ornaments.",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": null,
+      "Dependant": null
+    }
+  ],
+  "CreatorName": "muggenstuermer",
+  "CreatorContact": "https://www.nexusmods.com/anno1800/users/74331668",
+  "Image" : null
+}

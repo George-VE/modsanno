@@ -1,0 +1,73 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>Victory Column</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>Nadasky's Column</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>Harbour Victory Column</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>Victory Arch</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>Queen's Obelisk</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>Obelisk of Pope Lucius IV</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>Colonial Archway</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>King George's Monument</Text>
+		</Text>
+
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>This column commemorates a victory, be it great or small.</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>A magnificent pillar erected to honor Admiral Nadasky for his victory at Cape Trelawney on the 15th of October, 1805.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>A decorative archway honoring an event or individual.</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>A small monument to the Empire's belovedly aloof Queen.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>This monument was erected by the orders of Pope Lucius the IV, to remind the temporal cities of the Empire that the perfect city can only exist beyond the earthly realm.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>This archway is reconstructed out of the stones of captured La Corona fortresses, commemorating the New World's newfound freedom picking bananas and coffee for the Empire.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>Despite the Empire's ambivalent relationship with the late King George, this monument commemorates his rule and the 1801 Enbesan Expedition, which was carried out late in his reign.</Text>
+		</Text>
+		
+	</ModOp>
+</ModOps>

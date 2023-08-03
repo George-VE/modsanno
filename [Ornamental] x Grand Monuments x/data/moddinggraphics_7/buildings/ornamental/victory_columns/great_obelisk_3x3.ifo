@@ -1,0 +1,103 @@
+<Info>
+  <BoundingBox>
+    <Name>BoundingBox</Name>
+    <Position>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+    </Position>
+    <Rotation>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+      <wf>1</wf>
+    </Rotation>
+    <Extents>
+      <xf>1.5</xf>
+      <yf>4.5</yf>
+      <zf>1.5</zf>
+    </Extents>
+  </BoundingBox>
+  
+  <MeshBoundingBox>
+    <Name>MeshBoundingBox</Name>
+    <Position>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+    </Position>
+    <Rotation>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+      <wf>1</wf>
+    </Rotation>
+    <Extents>
+      <xf>1.5</xf>
+      <yf>4.5</yf>
+      <zf>1.5</zf>
+    </Extents>
+  </MeshBoundingBox>
+  
+  <DisableFeedbackArea>0</DisableFeedbackArea>
+
+
+  <IntersectBox>
+    <Name>Hitbox405030</Name>
+    <Position>
+      <xf>0</xf>
+      <yf>0.6637084</yf>
+      <zf>0</zf>
+    </Position>
+    <Rotation>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+      <wf>1</wf>
+    </Rotation>
+    <Extents>
+      <xf>0.5</xf>
+      <yf>4.5</yf>
+      <zf>0.5</zf>
+    </Extents>
+  </IntersectBox>
+  
+  <BuildBlocker>
+    <Position>
+      <xf>-1.5</xf>
+      <zf>1.5</zf>
+    </Position>
+    <Position>
+      <xf>1.5</xf>
+      <zf>1.5</zf>
+    </Position>
+    <Position>
+      <xf>1.5</xf>
+      <zf>-1.5</zf>
+    </Position>
+    <Position>
+      <xf>-1.5</xf>
+      <zf>-1.5</zf>
+    </Position>
+  </BuildBlocker>
+  
+    <UnevenBlocker>
+    <Position>
+      <xf>-1.5</xf>
+      <zf>1.5</zf>
+    </Position>
+    <Position>
+      <xf>1.5</xf>
+      <zf>1.5</zf>
+    </Position>
+    <Position>
+      <xf>1.5</xf>
+      <zf>-1.5</zf>
+    </Position>
+    <Position>
+      <xf>-1.5</xf>
+      <zf>-1.5</zf>
+    </Position>
+  </UnevenBlocker>
+  
+</Info>

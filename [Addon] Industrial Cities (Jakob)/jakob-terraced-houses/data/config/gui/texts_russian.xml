@@ -1,0 +1,103 @@
+<ModOps>
+  <!-- # Workers -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010200</GUID>
+      <Text>Общежитие рабочих I уровня</Text> <!-- construction menu, residence UI -->
+    </Text>
+    <Text>
+      <GUID>1500010201</GUID>
+      <Text>Общежитие рабочих II уровня</Text> <!-- residence UI -->
+    </Text>
+    <Text>
+      <GUID>1500010206</GUID>
+      <Text>Красная черепица</Text> <!-- skin name -->
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500010207</GUID>
+      <Text>Вы предпочетаете красную черепицу?</Text> <!-- skin desc -->
+    </Text>
+    <Text>
+      <GUID>1500010208</GUID>
+      <Text>Черная черепица</Text> <!-- skin name -->
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500010209</GUID>
+      <Text>Не нравится появляющиеся красные крыши среди домов?</Text> <!-- skin desc -->
+    </Text>
+    <Text>
+      <GUID>1500010212</GUID>
+      <Text>Общежития рабочих</Text> <!-- construction menu name -->
+    </Text>
+    <Text>
+      <GUID>1500010213</GUID>
+      <Text>[AssetData(163127) Text]</Text> <!-- construction menu desc -->
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500010214</GUID>
+      <Text>Использование кнопки улучшения здания обеспечивает наилучшее размещение случайных вариантов.</Text> <!-- level 1 residence construction desc -->
+    </Text>
+    <Text>
+      <GUID>1500010215</GUID>
+      <Text>Каменная мостовая (Улица)</Text> <!-- construction menu, ornament UI -->
+    </Text>
+    <Text>
+      <GUID>1500010217</GUID>
+      <Text>Общежития рабочих</Text> <!-- notification small/top text -->
+    </Text>
+    <Text>
+      <GUID>1500010218</GUID>
+      <Text>Общежития рабочих</Text> <!-- notification big/middle text -->
+    </Text>
+    <Text>
+      <GUID>1500010222</GUID>
+      <Text>Вариации декоративных сооружений для рынка с каменной брусчаткой можно найти в меню "Огни города".</Text> <!-- ornament description -->
+    </Text>
+    <Text>
+      <GUID>1500010223</GUID>
+      <Text>Каменная мостовая</Text> <!-- stone pavement decorations -->
+    </Text>
+    <Text>
+      <GUID>1500010224</GUID>
+      <Text>[AssetData(1500010223) Text]</Text> <!-- construction menu, ornament UI -->
+    </Text>
+    <Text>
+      <GUID>1500010281</GUID>
+      <Text>Общежития рабочих</Text> <!-- target pool -->
+    </Text>
+  </ModOp>
+  <!-- # Artisans -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010225</GUID>
+      <Text>Многоквартирный дом ремесленников I уровня</Text> <!-- residence UI -->
+    </Text>
+    <Text>
+      <GUID>1500010226</GUID>
+      <Text>Многоквартирный дом ремесленников II уровня</Text> <!-- residence UI -->
+    </Text>
+    <Text>
+      <GUID>1500010227</GUID>
+      <Text>Многоквартирные дома для ремесленников</Text> <!-- target pool -->
+    </Text>
+    <Text>
+      <GUID>1500010228</GUID>
+      <Text>Смешанные вариации</Text> <!-- mixed skin -->
+    </Text>
+    <Text>
+      <GUID>1500010229</GUID>
+      <Text>Синяя черепица</Text> <!-- blue roof skin -->
+    </Text>
+    <Text>
+      <GUID>1500010230</GUID>
+      <Text>"Кирпичная кладка"</Text> <!-- brick wall skin -->
+    </Text>
+    <Text>
+      <GUID>1500010242</GUID>
+      <Text>Зелёная черепица</Text>
+    </Text>
+  </ModOp>
+</ModOps>

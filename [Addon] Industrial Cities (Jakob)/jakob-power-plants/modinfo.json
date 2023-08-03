@@ -1,0 +1,60 @@
+{
+  "Version": "2.9.5",
+  "ModID": "jakob-power-plants",
+  "DeprecatedIds": [
+    "jakob_Small_Gas_Power_Plant"
+  ],
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Building",
+    "Chinese": "Building",
+    "French": "Building",
+    "German": "Building",
+    "Italian": "Building",
+    "Japanese": "Building",
+    "Korean": "Building",
+    "Polish": "Building",
+    "Russian": "Building",
+    "Spanish": "Building",
+    "Taiwanese": "Building"
+  },
+  "ModName": {
+    "English": "Small Power Plants (Jakob)",
+    "Chinese": "Small Power Plants (Jakob)",
+    "French": "Small Power Plants (Jakob)",
+    "German": "Small Power Plants (Jakob)",
+    "Italian": "Small Power Plants (Jakob)",
+    "Japanese": "Small Power Plants (Jakob)",
+    "Korean": "Small Power Plants (Jakob)",
+    "Polish": "Small Power Plants (Jakob)",
+    "Russian": "Small Power Plants (Jakob)",
+    "Spanish": "Small Power Plants (Jakob)",
+    "Taiwanese": "Small Power Plants (Jakob)"
+  },
+  "DLCDependencies": [
+    {
+      "DLC": "ThePassage",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "# Small Power Plants\n\nSmall power plant have less coverage than normal plants and consume coal, oil or gas.\n\n## Requirements\n\nThe small gas power plant should be playable without `The Passage` DLC. You need the mod `Small Power Plants, Biogas` then to get gas though.\n\nFuel station is only available if you have `Bright Harvest` active.\n\n## Buildings\n\n### Electricity\n\n- Coal Power Plant with bonus when built next too coal mines\n- Small Oil Power Plant\n- Small Gas Power Plant\n\nUse the mod `[Addon] New World Cities` to enable the power plants in the New World.\n\n### Fuel\n\n- Fuel Station with integrated oil pump\n\n## Known Issues\n\n- The coal power plant will drop an item into your harbor when destroyed.\n  You can ignore it or sell it.\n\n## Changes\n\n### 2.9\n\n- 2.9.5: Fixed coal power plant character (engineer -> worker)\n- 2.9.4: Fixed buildings disappearing\n- 2.9.3: Fixed missing ground texture of the oil power plant\n- 2.9.3: Coal power plant doesn't drop buff icon anymore\n- 2.9.2: Russian translation\n- 2.9.1: Fixed blurry icons\n- Immediately unlock in creative mode\n\n### Older\n\n- 2.7: Fuel station with integrated oil pump\n- 2.6: Chinese translation\n- 2.5: NW Oil and Gas Power Plants (when enabled via separate mod)\n- 2.4: Fixed GU14 maintenance buff\n- 2.3: Fixed coal power plant pollution category\n- 2.2: Coal mines have increased range when built next to coal mines.\n- 2.0: Added coal and oil power plants\n\n## Translations\n\nAvailable: Chinese, French, English, German, Korean, Polish, Spanish\n\nThanks to MSHS, Aveneger432, darknesswei, Tonton Yip, mfuegar, DrD_AVEL for tranlsations!\n\n[Project on GitHub](https://github.com/jakobharder/anno-1800-jakobs-mods)\n",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

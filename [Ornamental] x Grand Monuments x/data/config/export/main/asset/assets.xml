@@ -1,0 +1,1729 @@
+ <!-- Victory Columns -->
+<ModOps>
+
+<!-- UNHIDE -->
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+          <GUID>601127000</GUID>
+          <Name>Unhide</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>				  
+                    <UnhideAssets>
+                      <Item>
+                        <Asset>601127010</Asset> 
+                      </Item>
+                      <Item>
+                        <Asset>601127011</Asset> 
+                      </Item>
+                      <Item>
+                        <Asset>601127012</Asset> 
+                      </Item>
+                      <Item>
+                        <Asset>601127013</Asset> 
+                      </Item>
+                      <Item>
+                        <Asset>601127014</Asset> 
+                      </Item>
+                      <Item>
+                        <Asset>601127015</Asset> 
+                      </Item>
+                      <Item>
+                        <Asset>601127016</Asset> 
+                      </Item>			  
+                      <Item>
+                        <Asset>601127017</Asset> 
+                      </Item>						  
+                    </UnhideAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>
+  
+<!-- UNLOCK -->
+
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+          <GUID>601127001</GUID>
+          <Name>Unlock Victory Column</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>5000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>601127010</Asset>
+                    	</Item>	
+                    </UnlockAssets>				  
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>  
+  
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+          <GUID>601127002</GUID>
+          <Name>Unlock Nadasky Column</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>15000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>601127011</Asset>
+                    	</Item>	
+                    </UnlockAssets>				  
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp> 
+
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+			<GUID>601127003</GUID>
+			<Name>Unlock Harbor Victory Column</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>5000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>601127012</Asset>
+                    	</Item>	
+                    </UnlockAssets>				  
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp> 
+
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+			<GUID>601127004</GUID>
+			<Name>Unlock Victory Arch</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>2000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>601127013</Asset>
+                    	</Item>	
+                    </UnlockAssets>				  
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>  
+
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+			<GUID>601127005</GUID>
+			<Name>Unlock Queen's Obelisk</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>4000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>601127014</Asset>
+                    	</Item>	
+                    </UnlockAssets>				  
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>  
+  
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+			<GUID>601127006</GUID>
+			<Name>Unlock Obelisk of Lucius IV</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>8000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>601127015</Asset>
+                    	</Item>	
+                    </UnlockAssets>				  
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp> 
+
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+			<GUID>601127007</GUID>
+			<Name>Unlock Colonial Archway</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>5000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>601127016</Asset>
+                    	</Item>	
+                    </UnlockAssets>				  
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Path="//Assets" Type="add">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+			<GUID>601127008</GUID>
+			<Name>Unlock King George's Memorial</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>10000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>601127017</Asset>
+                    	</Item>	
+                    </UnlockAssets>				  
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>   
+	
+  <!-- Menu -->
+  
+    <ModOp Type="add" GUID='501488' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>601127010</Building>
+        </Item>
+        <Item>
+            <Building>601127012</Building>
+        </Item>
+        <Item>
+            <Building>601127017</Building>
+        </Item>		
+        <Item>
+            <Building>601127011</Building>
+        </Item>
+        <Item>
+            <Building>601127013</Building>
+        </Item>
+        <Item>
+            <Building>601127016</Building>
+        </Item>			
+        <Item>
+            <Building>601127014</Building>
+        </Item>
+        <Item>
+            <Building>601127015</Building>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='501695' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>601127010</Building>
+        </Item>
+        <Item>
+            <Building>601127012</Building>
+        </Item>
+        <Item>
+            <Building>601127017</Building>
+        </Item>			
+        <Item>
+            <Building>601127011</Building>
+        </Item>
+        <Item>
+            <Building>601127013</Building>
+        </Item>
+        <Item>
+            <Building>601127016</Building>
+        </Item>			
+        <Item>
+            <Building>601127014</Building>
+        </Item>
+        <Item>
+            <Building>601127015</Building>
+        </Item>		
+    </ModOp>
+    <ModOp Type="add" GUID='501499' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>601127010</Building>
+        </Item>
+        <Item>
+            <Building>601127012</Building>
+        </Item>
+        <Item>
+            <Building>601127017</Building>
+        </Item>			
+        <Item>
+            <Building>601127011</Building>
+        </Item>
+        <Item>
+            <Building>601127013</Building>
+        </Item>
+        <Item>
+            <Building>601127016</Building>
+        </Item>			
+        <Item>
+            <Building>601127014</Building>
+        </Item>
+        <Item>
+            <Building>601127015</Building>
+        </Item>		
+    </ModOp>
+    <ModOp Type="add" GUID='501694' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>601127010</Building>
+        </Item>
+        <Item>
+            <Building>601127012</Building>
+        </Item>
+        <Item>
+            <Building>601127017</Building>
+        </Item>			
+        <Item>
+            <Building>601127011</Building>
+        </Item>
+        <Item>
+            <Building>601127013</Building>
+        </Item>
+        <Item>
+            <Building>601127016</Building>
+        </Item>			
+        <Item>
+            <Building>601127014</Building>
+        </Item>
+        <Item>
+            <Building>601127015</Building>
+        </Item>		
+    </ModOp>		
+  
+  <!-- Spice it Up World's Fair Items Menu Contingency -->  
+  
+    <ModOp Type="add" GUID='976503' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>601127010</Building>
+        </Item>
+        <Item>
+            <Building>601127012</Building>
+        </Item>
+        <Item>
+            <Building>601127017</Building>
+        </Item>			
+        <Item>
+            <Building>601127011</Building>
+        </Item>
+        <Item>
+            <Building>601127013</Building>
+        </Item>
+        <Item>
+            <Building>601127016</Building>
+        </Item>			
+        <Item>
+            <Building>601127014</Building>
+        </Item>
+        <Item>
+            <Building>601127015</Building>
+        </Item>		
+    </ModOp>
+    <ModOp Type="add" GUID='902263' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>601127010</Building>
+        </Item>
+        <Item>
+            <Building>601127012</Building>
+        </Item>
+        <Item>
+            <Building>601127017</Building>
+        </Item>			
+        <Item>
+            <Building>601127011</Building>
+        </Item>
+        <Item>
+            <Building>601127013</Building>
+        </Item>
+        <Item>
+            <Building>601127016</Building>
+        </Item>			
+        <Item>
+            <Building>601127014</Building>
+        </Item>
+        <Item>
+            <Building>601127015</Building>
+        </Item>		
+    </ModOp> 
+
+ <!-- Victory Column -->
+  <ModOp Type="addNextSibling" GUID='1010347'>
+  
+                        <Asset>
+                          <Template>OrnamentalBuilding</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127010</GUID>
+                              <Name>Victory Column</Name>
+                              <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_ornament_victory_column.png</IconFilename>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Victory Column</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36269</LineID>
+                            </Text>
+                            <Blocking>
+                              <HidePropsRadius>0</HidePropsRadius>
+                              <DeletePropsRadius>0</DeletePropsRadius>
+                            </Blocking>
+                            <Building>
+							  <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>							
+                              <BuildingCategoryName>11149</BuildingCategoryName>
+                              <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                              <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                              <AllowChangeVariation>1</AllowChangeVariation>
+                            </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>75</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010231</Ingredient>
+                            <Amount>75</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010204</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010249</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>							
+                    </Costs>
+                </Cost>
+                            <Selection>
+                              <Colors>
+                                <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                              </Colors>
+                            </Selection>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/victory_column_1x1.cfg</Filename>
+                                </Item>
+                                <Item>
+                                  <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/lion_column_v1_1x1.cfg</Filename>
+                                </Item>
+                                <Item>
+                                  <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/lion_column_v2_1x1.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <Constructable />
+                            <Mesh />
+                            <SoundEmitter>
+                              <DestroySounds>
+                                <Item>
+                                  <Sound>9818756</Sound>
+                                </Item>
+                                <Item>
+                                  <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                      <Entry>
+                                        <TemplateName>OrnamentalBuilding</TemplateName>
+                                        <Index>0</Index>
+                                      </Entry>
+                                    </InheritanceMapV2>
+                                  </VectorElement>
+                                </Item>
+                              </DestroySounds>
+                              <ConstructionSounds>
+                                <BuildSuccessful>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                  <Item>
+                                    <Sound>9818759</Sound>
+                                  </Item>
+                                </BuildSuccessful>
+                                <BuildFailed>
+                                  <Item>
+                                    <Sound>9818387</Sound>
+                                  </Item>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                </BuildFailed>
+                                <BuildMoveStart>
+                                  <Item>
+                                    <Sound>9818755</Sound>
+                                  </Item>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                </BuildMoveStart>
+                              </ConstructionSounds>
+                            </SoundEmitter>
+                            <FeedbackController />
+                            <Ornament>
+                              <PlazzaSize>0</PlazzaSize>
+                              <OrnamentUnit>1</OrnamentUnit>
+                              <OrnamentDescritpion>601127020</OrnamentDescritpion>
+                            </Ornament>
+                            <AmbientMoodProvider />
+                            <Pausable />
+                            <Infolayer />
+							<Culture>
+								<Attractiveness>30</Attractiveness>
+							</Culture>
+                          </Values>
+                        </Asset>
+
+ <!-- Nadasky's Column -->
+                        <Asset>
+                          <Template>OrnamentalBuilding</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127011</GUID>
+                              <Name>Nadaskys Column</Name>
+                              <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_ornament_nadaskys_column.png</IconFilename>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>>Nadasky's Column</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36269</LineID>
+                            </Text>
+                            <Blocking>
+                              <HidePropsRadius>0</HidePropsRadius>
+                              <DeletePropsRadius>0</DeletePropsRadius>
+                            </Blocking>
+                            <Building>
+							  <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>							
+                              <BuildingCategoryName>11149</BuildingCategoryName>
+                              <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                              <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                            </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1000000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>150</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>75</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010231</Ingredient>
+                            <Amount>200</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>100</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010204</Ingredient>
+                            <Amount>75</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010249</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010221</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>							
+                    </Costs>
+                </Cost>
+                            <Selection>
+                              <Colors>
+                                <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                              </Colors>
+                            </Selection>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/nadaskys_column_2x2.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <Constructable />
+                            <Mesh />
+                            <SoundEmitter>
+                              <DestroySounds>
+                                <Item>
+                                  <Sound>9818756</Sound>
+                                </Item>
+                                <Item>
+                                  <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                      <Entry>
+                                        <TemplateName>OrnamentalBuilding</TemplateName>
+                                        <Index>0</Index>
+                                      </Entry>
+                                    </InheritanceMapV2>
+                                  </VectorElement>
+                                </Item>
+                              </DestroySounds>
+                              <ConstructionSounds>
+                                <BuildSuccessful>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                  <Item>
+                                    <Sound>9818759</Sound>
+                                  </Item>
+                                </BuildSuccessful>
+                                <BuildFailed>
+                                  <Item>
+                                    <Sound>9818387</Sound>
+                                  </Item>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                </BuildFailed>
+                                <BuildMoveStart>
+                                  <Item>
+                                    <Sound>9818755</Sound>
+                                  </Item>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                </BuildMoveStart>
+                              </ConstructionSounds>
+                            </SoundEmitter>
+                            <FeedbackController />
+                            <Ornament>
+                              <PlazzaSize>0</PlazzaSize>
+                              <OrnamentUnit>1</OrnamentUnit>
+                              <OrnamentDescritpion>601127021</OrnamentDescritpion>
+                            </Ornament>
+                            <AmbientMoodProvider />
+                            <Pausable />
+                            <Infolayer />
+							<Culture>
+								<Attractiveness>50</Attractiveness>
+							</Culture>
+                          </Values>
+                        </Asset>
+						
+ <!-- Harbour Victory Column -->
+
+ 		<Asset>
+			<Template>OrnamentalBuilding</Template>
+			<Values>
+				<Standard>
+					<GUID>601127012</GUID>
+					<Name>Harbour Victory Column</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_ornament_victory_column_harbour.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Harbour Victory Column</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+				</Text>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+                    <GroundDecalAsset>100446</GroundDecalAsset>
+                    <GroundDecalInvisible>101008</GroundDecalInvisible>					
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <HarbourAreaExpand>1</HarbourAreaExpand>						
+				</Blocking>
+				<Building>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>				
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                              <AllowChangeVariation>1</AllowChangeVariation>
+				</Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>75</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>75</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010204</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010249</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>							
+                    </Costs>
+                </Cost>
+				<Selection>
+					<Selectable>1</Selectable>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/victory_column_1x1.cfg</Filename>
+						</Item>
+                                <Item>
+                                  <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/lion_column_v1_1x1.cfg</Filename>
+                                </Item>
+                                <Item>
+                                  <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/lion_column_v2_1x1.cfg</Filename>
+                                </Item>
+					</Variations>
+				</Object>
+				<Constructable />
+				<Mesh />
+                        <SoundEmitter>
+                          <ActiveSounds />
+                          <ConstructionSounds>
+                            <BuildSuccessful>
+                              <Item>
+                                <Sound>206544</Sound>
+                              </Item>
+                            </BuildSuccessful>
+                          </ConstructionSounds>
+                          <IncidentSounds>
+                            <InfectedFire>
+                              <Item>
+                                <Sound>214659</Sound>
+                              </Item>
+                            </InfectedFire>
+                          </IncidentSounds>
+                          <BuildingRuined>
+                            <Item>
+                              <Sound>203848</Sound>
+                            </Item>
+                          </BuildingRuined>
+                          <BuildingRepaired>
+                            <Item>
+                              <Sound>203866</Sound>
+                            </Item>
+                          </BuildingRepaired>
+                        </SoundEmitter>
+				<Locked />
+				<FeedbackController />
+				<Ornament>
+					<OrnamentUnit>9</OrnamentUnit>
+					<OrnamentDescritpion>601127020</OrnamentDescritpion>
+				</Ornament>
+				<AmbientMoodProvider />
+				<Pausable />
+				<Infolayer />
+							<Culture>
+								<Attractiveness>30</Attractiveness>
+							</Culture>				
+			</Values>
+		</Asset>
+
+ <!-- Victory Arch -->	
+	
+                    <Asset>
+                      <Template>OrnamentalBuilding</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>601127013</GUID>
+                          <Name>Victory Arch</Name>
+                          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_ornament_victory_arch.png</IconFilename>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Victory Arch</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>36662</LineID>
+                        </Text>
+                        <Blocking>
+                          <HidePropsRadius>0</HidePropsRadius>
+                          <DeletePropsRadius>0</DeletePropsRadius>
+                          <HasBuildableTilesBelowArch>1</HasBuildableTilesBelowArch>
+                          <ArchHeight>1.75</ArchHeight>
+                        </Blocking>
+                        <Building>
+                          <BuildingCategoryName>11149</BuildingCategoryName>
+                          <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                        </Building>
+                        <Cost>
+                          <Costs>
+                            <Item>
+                              <Ingredient>1010017</Ingredient>
+                              <Amount>300000</Amount>
+                            </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010231</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>35</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010204</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010249</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>	
+                          </Costs>
+                        </Cost>
+                        <Selection>
+                          <Colors>
+                            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                          </Colors>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/victory_arch_v1_1x3.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Constructable />
+                        <Mesh />
+                        <SoundEmitter />
+                        <Locked>
+                        </Locked>
+                        <FeedbackController />
+                        <Ornament>
+                          <PlazzaSize>0</PlazzaSize>
+                          <OrnamentUnit>3</OrnamentUnit>
+                          <OrnamentDescritpion>601127023</OrnamentDescritpion>
+                        </Ornament>
+                        <AmbientMoodProvider />
+                        <Pausable />
+                        <Infolayer />
+							<Culture>
+								<Attractiveness>20</Attractiveness>
+							</Culture>
+                      </Values>
+                    </Asset>
+
+ <!-- Queen's Obelisk -->	
+	
+                    <Asset>
+                      <Template>OrnamentalBuilding</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>601127014</GUID>
+                          <Name>Queen's Obelisk</Name>
+                          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_ornament_small_obelisk.png</IconFilename>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Queen's Obelisk</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>36662</LineID>
+                        </Text>
+                        <Blocking>
+                          <HidePropsRadius>0</HidePropsRadius>
+                          <DeletePropsRadius>0</DeletePropsRadius>
+                        </Blocking>
+                        <Building>
+							  <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>							
+                              <BuildingCategoryName>11149</BuildingCategoryName>
+                              <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                              <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                        </Building>
+                        <Cost>
+                          <Costs>
+                            <Item>
+                              <Ingredient>1010017</Ingredient>
+                              <Amount>400000</Amount>
+                            </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>100</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010231</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010204</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010249</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>	
+                          </Costs>
+                        </Cost>
+                        <Selection>
+                          <Colors>
+                            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                          </Colors>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/small_obelisk_1x1.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Constructable />
+                        <Mesh />
+                        <SoundEmitter />
+                        <Locked>
+                        </Locked>
+                        <FeedbackController />
+                        <Ornament>
+                          <PlazzaSize>0</PlazzaSize>
+                          <OrnamentUnit>3</OrnamentUnit>
+                          <OrnamentDescritpion>601127024</OrnamentDescritpion>
+                        </Ornament>
+                        <AmbientMoodProvider />
+                        <Pausable />
+                        <Infolayer />
+							<Culture>
+								<Attractiveness>30</Attractiveness>
+							</Culture>
+                      </Values>
+                    </Asset>					
+					
+ <!-- Obelisk of Lucius IV -->	
+	
+                    <Asset>
+                      <Template>OrnamentalBuilding</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>601127015</GUID>
+                          <Name>Obelisk of Lucius IV</Name>
+                          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_ornament_great_obelisk.png</IconFilename>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Obelisk of Lucius IV</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>36662</LineID>
+                        </Text>
+                        <Blocking>
+							  <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>							
+                              <BuildingCategoryName>11149</BuildingCategoryName>
+                              <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                              <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                        </Blocking>
+                        <Building>
+                          <BuildingCategoryName>11149</BuildingCategoryName>
+                          <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                        </Building>
+                        <Cost>
+                          <Costs>
+                            <Item>
+                              <Ingredient>1010017</Ingredient>
+                              <Amount>750000</Amount>
+                            </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>150</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010231</Ingredient>
+                            <Amount>100</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010204</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010249</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>	
+                          </Costs>
+                        </Cost>
+                        <Selection>
+                          <Colors>
+                            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                          </Colors>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/great_obelisk_3x3.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Constructable />
+                        <Mesh />
+                        <SoundEmitter />
+                        <Locked>
+                        </Locked>
+                        <FeedbackController />
+                        <Ornament>
+                          <PlazzaSize>0</PlazzaSize>
+                          <OrnamentUnit>3</OrnamentUnit>
+                          <OrnamentDescritpion>601127025</OrnamentDescritpion>
+                        </Ornament>
+                        <AmbientMoodProvider />
+                        <Pausable />
+                        <Infolayer />
+							<Culture>
+								<Attractiveness>40</Attractiveness>
+							</Culture>
+                      </Values>
+                    </Asset>					
+
+ <!-- Colonial Archway -->	
+	
+                    <Asset>
+                      <Template>OrnamentalBuilding</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>601127016</GUID>
+                          <Name>Colonial Archway</Name>
+                          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_ornament_colonial_arch.png</IconFilename>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Colonial Archway</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>36662</LineID>
+                        </Text>
+                        <Blocking>
+                          <HidePropsRadius>0</HidePropsRadius>
+                          <DeletePropsRadius>0</DeletePropsRadius>
+                          <HasBuildableTilesBelowArch>1</HasBuildableTilesBelowArch>
+                          <ArchHeight>1.75</ArchHeight>
+                        </Blocking>
+                        <Building>
+                          <BuildingCategoryName>11149</BuildingCategoryName>
+                          <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                        </Building>
+                        <Cost>
+                          <Costs>
+                            <Item>
+                              <Ingredient>1010017</Ingredient>
+                              <Amount>300000</Amount>
+                            </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010231</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>35</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010204</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010221</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>	
+                          </Costs>
+                        </Cost>
+                        <Selection>
+                          <Colors>
+                            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                          </Colors>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/colonial_arch_1x3.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Constructable />
+                        <Mesh />
+                        <SoundEmitter />
+                        <Locked>
+                        </Locked>
+                        <FeedbackController />
+                        <Ornament>
+                          <PlazzaSize>0</PlazzaSize>
+                          <OrnamentUnit>3</OrnamentUnit>
+                          <OrnamentDescritpion>601127026</OrnamentDescritpion>
+                        </Ornament>
+                        <AmbientMoodProvider />
+                        <Pausable />
+                        <Infolayer />
+							<Culture>
+								<Attractiveness>20</Attractiveness>
+							</Culture>
+                      </Values>
+                    </Asset>
+					
+<!-- King George's Memorial -->
+                        <Asset>
+                          <Template>OrnamentalBuilding</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127017</GUID>
+                              <Name>King George's Memorial</Name>
+                              <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_ornament_georgesmemorial.png</IconFilename>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>>King George's Memorial</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36269</LineID>
+                            </Text>
+                            <Blocking>
+                              <HidePropsRadius>0</HidePropsRadius>
+                              <DeletePropsRadius>0</DeletePropsRadius>
+                            </Blocking>
+                            <Building>
+							  <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>							
+                              <BuildingCategoryName>11149</BuildingCategoryName>
+                              <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                              <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                            </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>750000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>125</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>50</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010231</Ingredient>
+                            <Amount>150</Amount>
+                        </Item>						
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>100</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010204</Ingredient>
+                            <Amount>100</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010249</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>							
+                    </Costs>
+                </Cost>
+                            <Selection>
+                              <Colors>
+                                <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                              </Colors>
+                            </Selection>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/moddinggraphics_7/buildings/ornamental/victory_columns/georges_monument_4x4.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <Constructable />
+                            <Mesh />
+                            <SoundEmitter>
+                              <DestroySounds>
+                                <Item>
+                                  <Sound>9818756</Sound>
+                                </Item>
+                                <Item>
+                                  <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                      <Entry>
+                                        <TemplateName>OrnamentalBuilding</TemplateName>
+                                        <Index>0</Index>
+                                      </Entry>
+                                    </InheritanceMapV2>
+                                  </VectorElement>
+                                </Item>
+                              </DestroySounds>
+                              <ConstructionSounds>
+                                <BuildSuccessful>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                  <Item>
+                                    <Sound>9818759</Sound>
+                                  </Item>
+                                </BuildSuccessful>
+                                <BuildFailed>
+                                  <Item>
+                                    <Sound>9818387</Sound>
+                                  </Item>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                </BuildFailed>
+                                <BuildMoveStart>
+                                  <Item>
+                                    <Sound>9818755</Sound>
+                                  </Item>
+                                  <Item>
+                                    <VectorElement>
+                                      <InheritedIndex>0</InheritedIndex>
+                                      <InheritanceMapV2>
+                                        <Entry>
+                                          <TemplateName>OrnamentalBuilding</TemplateName>
+                                          <Index>0</Index>
+                                        </Entry>
+                                      </InheritanceMapV2>
+                                    </VectorElement>
+                                  </Item>
+                                </BuildMoveStart>
+                              </ConstructionSounds>
+                            </SoundEmitter>
+                            <FeedbackController />
+                            <Ornament>
+                              <PlazzaSize>0</PlazzaSize>
+                              <OrnamentUnit>1</OrnamentUnit>
+                              <OrnamentDescritpion>601127027</OrnamentDescritpion>
+                            </Ornament>
+                            <AmbientMoodProvider />
+                            <Pausable />
+                            <Infolayer />
+							<Culture>
+								<Attractiveness>40</Attractiveness>
+							</Culture>
+                          </Values>
+                        </Asset>
+
+					
+	</ModOp>   				  
+	
+ <!-- Descriptions -->	
+
+  <ModOp Type="addNextSibling" GUID='1010347'>
+						<Asset> 
+                          <Template>Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127020</GUID>
+                              <Name>Victory Column</Name>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>This column commemorates a victory, be it great or small.</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36469</LineID>
+                            </Text>
+                          </Values>
+                        </Asset>
+						<Asset> 
+                          <Template>Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127021</GUID>
+                              <Name>Nadasky's Column</Name>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>A magnificent pillar erected to honor Admiral Nadasky for his victory at Cape Trelawney on the 15th of October, 1805.</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36469</LineID>
+                            </Text>
+                          </Values>
+                        </Asset>					
+						<Asset> 
+                          <Template>Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127023</GUID>
+                              <Name>Victory Arch</Name>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>A decorative archway honoring an event or individual.</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36469</LineID>
+                            </Text>
+                          </Values>
+                        </Asset>												
+						<Asset> 
+                          <Template>Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127024</GUID>
+                              <Name>Queen's Obelisk</Name>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>A small monument to the Empire's belovedly aloof Queen.</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36469</LineID>
+                            </Text>
+                          </Values>
+                        </Asset>
+						<Asset> 
+                          <Template>Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127025</GUID>
+                              <Name>Obelisk of Pope Lucius IV</Name>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>This monument was erected by the orders of Pope Lucius the IV, to remind the temporal cities of the Empire that the perfect city can only exist beyond the earthly realm.</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36469</LineID>
+                            </Text>
+                          </Values>
+                        </Asset>
+						<Asset> 
+                          <Template>Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127026</GUID>
+                              <Name>Colonial Archway</Name>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>This archway is reconstructed out of the stones of captured La Corona fortresses, commemorating the New World's newfound freedom picking bananas and coffee for the Empire.</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36469</LineID>
+                            </Text>
+                          </Values>
+                        </Asset>
+						<Asset> 
+                          <Template>Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>601127027</GUID>
+                              <Name>King George's Monument</Name>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Despite the Empire's ambivalent relationship with the late King George, this monument commemorates his rule and the 1801 Enbesan Expedition, which was carried out late in his reign.</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>36469</LineID>
+                            </Text>
+                          </Values>
+                        </Asset>						
+	</ModOp>  
+	
+</ModOps>

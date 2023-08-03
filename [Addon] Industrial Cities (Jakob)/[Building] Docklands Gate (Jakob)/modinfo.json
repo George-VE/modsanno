@@ -1,0 +1,57 @@
+{
+  "Version": "1.2.7",
+  "ModID": "jakob-docklands-gate",
+  "DeprecateIds": [
+    "jakob_docklands"
+  ],
+  "LoadAfterIds": [
+    "NewWorldDocklands"
+  ],
+  "Category": {
+    "English": "Building",
+    "Chinese": "Building",
+    "French": "Building",
+    "German": "Building",
+    "Italian": "Building",
+    "Japanese": "Building",
+    "Korean": "Building",
+    "Polish": "Building",
+    "Russian": "Building",
+    "Spanish": "Building",
+    "Taiwanese": "Building"
+  },
+  "ModName": {
+    "English": "Docklands Gate (Jakob)",
+    "Chinese": "Docklands Gate (Jakob)",
+    "French": "Docklands Gate (Jakob)",
+    "German": "Docklands Gate (Jakob)",
+    "Italian": "Docklands Gate (Jakob)",
+    "Japanese": "Docklands Gate (Jakob)",
+    "Korean": "Docklands Gate (Jakob)",
+    "Polish": "Docklands Gate (Jakob)",
+    "Russian": "Docklands Gate (Jakob)",
+    "Spanish": "Docklands Gate (Jakob)",
+    "Taiwanese": "Docklands Gate (Jakob)"
+  },
+  "DLCDependencies": [
+    {
+      "DLC": "Docklands",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "# Docklands Gate\n\nThe docklands gate connects modules across streets to keep atractiveness bonus.\n\n## Docklands Module\n\nThe building is available in the docklands module construction.\n\nNote: the menu has no scroll option. It may not show if you already have too many modules.\n\nThe module is also available in the NW when you play with [New World Docklands](https://www.nexusmods.com/anno1800/mods/215).\nNew World Docklands must be loaded first, so best not change the folder names of mods.\n\n## Changes\n\n### 1.2\n\n- 1.2.7: Russian translation\n- 1.2.6: Fixed blurry icons\n- 1.2.5: Added to Docklands construction menu\n- 1.2.4: Fixed warnings when used without New World Docklands\n- 1.2.1: New build icon\n- New World Docklands support.\n\n### Older\n- 1.1: Fixed lights\n\n## Translations\n\nAvailable: Chinese, French, English, German, Polish, Spanish\n\nThanks to Tonton Yip, mfuegar, DrD_AVEL for the translations!\n\n[Project on GitHub](https://github.com/jakobharder/anno-1800-jakobs-mods)\n",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

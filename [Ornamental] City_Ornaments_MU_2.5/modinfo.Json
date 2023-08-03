@@ -1,0 +1,77 @@
+{
+  "Version": "2.5",
+  "ModID": "City_Ornaments_2.0_MU",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Ornamental mod",
+    "French": "Mod ornemental",
+    "German": "Ornamentaler Mod",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+    "ModName": {
+    "Chinese": null,
+    "English": "City_Ornaments_2.0_MU",
+    "French": "City_Ornaments_2.0_MU",
+    "German": "City_Ornaments_2.0_MU",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Decorative elements for the city, activation from 1 worker.",
+    "French": "Éléments décoratifs pour la ville, activation à partir de 1 ouvrier",
+    "German": "Dekorative Elemente für die City, Freischaltung ab 1 Arbeiter.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    {
+      "Chinese": null,
+      "English": "Some elements come from the DLC . Those who do not own this DLC cannot build these elements",
+      "French": "Certains éléments proviennent du DLC . Ceux qui ne possèdent pas ce DLC ne peuvent pas construire ces éléments",
+      "German": "Einige Elemente stammen aus den DLC . Wer diese DLC nicht besitzt, kann diese Elemente nicht bauen",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": null,
+  "CreatorName": "muggenstuermer",
+  "CreatorContact": "https://discord.gg/2yNrjsk9R8",
+  "Image" : null
+}

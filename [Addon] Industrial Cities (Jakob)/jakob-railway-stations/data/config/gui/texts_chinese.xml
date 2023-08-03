@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500011080</GUID>
+      <Text>货运平台</Text> <!-- Freight Platform -->
+    </Text>
+    <Text>
+      <GUID>1500011081</GUID>
+      <Text>乘客平台</Text> <!-- Passenger Platform -->
+    </Text>
+    <Text>
+      <GUID>1500011082</GUID>
+      <Text>污垢</Text> <!-- Dirt -->
+    </Text>
+    <Text>
+      <GUID>1500011083</GUID>
+      <Text>火车站(Jakob)</Text> <!-- mod name -->
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,49 @@
+{
+  "Version": "1.1.7",
+  "ModID": "production-import-tea-jakob",
+  "ModDependencies": [
+    "shared-ground-textures-industry-jakob",
+    "shared-products-jakob"
+  ],
+  "Category": {
+    "English": "Production",
+    "Chinese": "Production",
+    "French": "Production",
+    "German": "Production",
+    "Italian": "Production",
+    "Japanese": "Production",
+    "Korean": "Production",
+    "Polish": "Production",
+    "Russian": "Production",
+    "Spanish": "Production",
+    "Taiwanese": "Production"
+  },
+  "ModName": {
+    "English": "Import Tea (Jakob)",
+    "Chinese": "Import Tea (Jakob)",
+    "French": "Import Tea (Jakob)",
+    "German": "Import Tea (Jakob)",
+    "Italian": "Import Tea (Jakob)",
+    "Japanese": "Import Tea (Jakob)",
+    "Korean": "Import Tea (Jakob)",
+    "Polish": "Import Tea (Jakob)",
+    "Russian": "Import Tea (Jakob)",
+    "Spanish": "Import Tea (Jakob)",
+    "Taiwanese": "Import Tea (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "README.md",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

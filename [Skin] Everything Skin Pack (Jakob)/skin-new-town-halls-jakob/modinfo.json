@@ -1,0 +1,58 @@
+{
+  "Version": "2.0.2",
+  "ModID": "skin-new-town-halls-jakob",
+  "DeprecateIds": [
+    "jakob_New_Town_Hall"
+  ],
+  "Category": {
+    "English": "Skin",
+    "Chinese": "Skin",
+    "French": "Skin",
+    "German": "Skin",
+    "Italian": "Skin",
+    "Japanese": "Skin",
+    "Korean": "Skin",
+    "Polish": "Skin",
+    "Russian": "Skin",
+    "Spanish": "Skin",
+    "Taiwanese": "Skin"
+  },
+  "ModName": {
+    "English": "New Town Halls (Jakob)",
+    "Chinese": "New Town Halls (Jakob)",
+    "French": "New Town Halls (Jakob)",
+    "German": "New Town Halls (Jakob)",
+    "Italian": "New Town Halls (Jakob)",
+    "Japanese": "New Town Halls (Jakob)",
+    "Korean": "New Town Halls (Jakob)",
+    "Polish": "New Town Halls (Jakob)",
+    "Russian": "New Town Halls (Jakob)",
+    "Spanish": "New Town Halls (Jakob)",
+    "Taiwanese": "New Town Halls (Jakob)"
+  },
+  "DLCDependencies": [
+    {
+      "DLC": "Highlife",
+      "Dependant": "atLeastOneRequired"
+    },
+    {
+      "DLC": "LandOfLions",
+      "Dependant": "atLeastOneRequired"
+    }
+  ],
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "# New Town Halls\n\nAdds 10 Town Hall skins.\n\n## Requirements\n\n- Red Town Hall needs DLC `Land of Lions`\n- New Town Hall and City Hall Tower need DLC `The High Life`\n\nPlease remove `[Building] New Town Halls (Jakob)` if you still have that mod.\nYou can still use it though, if you prefer separately buildable town halls.\n\n## Skins\n\n- New Town Hall with 5 roof color variations\n- Red Town Hall with 3 model variations\n- 2 City Hall Towers\n\n## Changes\n\n### 2.0\n\n- 2.0.2: Russian translation\n- 2.0.1: Fixed blurry icons\n- Converted all town halls to skins\n\n## Translations\n\nAvailable: English, French, German, Italian, Polish, Russian, Spanish, Japanese, Korean, Simplified Chinese, Traditional Chinese\n\nThanks to mfuegar, DrD_AVEL for the translations!\n\n[Project on GitHub](https://github.com/jakobharder/anno-1800-jakobs-mods)\n",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

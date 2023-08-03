@@ -1,0 +1,527 @@
+ <!-- Bourse -->
+<ModOps>
+ 
+ <!-- UNHIDE -->
+  
+ <!-- OW Unhide -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130248']">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>600018110</GUID>
+          <Name>intermediate moderate 4.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+        </Standard>
+        <Trigger>
+ 	 <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000003</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>				
+                    </UnlockAssets>
+                    <UnhideAssets>
+                      	<Item>
+                        <Asset>600038110</Asset>
+                      	</Item>						
+                    </UnhideAssets>
+                    <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>  
+ 
+ 
+ <!-- OW Unlock -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130248']">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>600018111</GUID>
+          <Name>intermediate moderate 4.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+        </Standard>
+        <Trigger>
+ 	 <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000003</Context>
+                <CounterAmount>4000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>600038110</Asset>
+                    	</Item>						
+                    </UnlockAssets>
+                    <UnhideAssets>				
+                    </UnhideAssets>
+                    <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>  
+ 
+ 
+  <!-- OW Construction Menu -->
+  
+    <!-- Menu Location OW Pop Tier --> 
+  <ModOp Type="addNextSibling" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList/Item[Building='1010365']">
+    <Item>
+      <Building>600038110</Building>
+    </Item>
+  </ModOp>
+  
+   <!-- Menu Location OW Building Type -->   
+   <ModOp Type="addNextSibling" GUID='500944' Path="/Values/ConstructionCategory/BuildingList/Item[Building='1010364']">
+    <Item>
+      <Building>600038110</Building>
+    </Item>
+  </ModOp>
+
+    <!-- Menu Location OW Pop Tier Sealring Contingency--> 
+  <ModOp Type="addNextSibling" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList/Item[Building='2000150006']">
+    <Item>
+      <Building>600038110</Building>
+    </Item>
+  </ModOp>
+  
+  
+    <!-- Asset -->
+
+    <!-- Bourse -->	
+  <ModOp Type="addNextSibling" GUID='1010372'>	
+    <Asset>
+      <Template>GasometerBuffableOrnamentalBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>600038110</GUID>
+          <Name>Bourse</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_bourse.png</IconFilename>
+          <InfoDescription>600038111</InfoDescription>
+        </Standard>
+        <Building>
+          <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+          <BuildingType>Other</BuildingType>
+          <BuildingCategoryName>100003</BuildingCategoryName>
+          <SkipUnlockMessage>1</SkipUnlockMessage>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+          <AllowChangeVariation>1</AllowChangeVariation>
+	  <SecondPartyRelevant>0</SecondPartyRelevant>
+        </Building>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>150000</Amount>
+            </Item>
+                                <Item>
+                                  <Ingredient>1010196</Ingredient>
+                                  <Amount>100</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010205</Ingredient>
+                                  <Amount>150</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010218</Ingredient>
+                                  <Amount>100</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010207</Ingredient>
+                                  <Amount>100</Amount>
+                                </Item>	
+                                <Item>
+                                  <Ingredient>1010202</Ingredient>
+                                  <Amount>200</Amount>
+                                </Item>	
+                                <Item>
+                                  <Ingredient>1010204</Ingredient>
+                                  <Amount>50</Amount>
+                                </Item>	
+                                <Item>
+                                  <Ingredient>1010243</Ingredient>
+                                  <Amount>25</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010249</Ingredient>
+                                  <Amount>10</Amount>
+                                </Item>		
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+                                <Item>
+                                  <Filename>data/moddinggraphics_16/buildings/public/bourse/bourse.cfg</Filename>
+                                </Item>
+                                <Item>
+                                  <Filename>data/moddinggraphics_16/buildings/public/bourse/bourseV2.cfg</Filename>
+                                </Item>										
+          </Variations>
+        </Object>
+        <Mesh />
+        <Selection>
+          <Colors>
+            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+          </Colors>
+        </Selection>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Bourse</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>36269</LineID>
+        </Text>
+        <Constructable />
+        <BuffFactory>
+          <ProductionBuffDistance>35</ProductionBuffDistance>
+          <BaseBuffDistance>35</BaseBuffDistance>
+          <BaseBuff>600038131</BaseBuff>
+          <BaseBuffScope>Radius</BaseBuffScope>
+          <ProductionBuffScope>Radius</ProductionBuffScope>
+        </BuffFactory>
+        <Locked />
+        <Ornament>
+          <PlazzaSize>0</PlazzaSize>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescription>600038111</OrnamentDescription>
+        </Ornament>
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>242757</Sound>
+            </Item>
+          </ActiveSounds>
+          <ConstructionSounds>
+            <BuildSuccessful>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>0</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>FarmBuilding</TemplateName>
+                      <Index>0</Index>
+                    </Entry>
+                    <Entry>
+                      <TemplateName>HeavyFreeAreaBuilding</TemplateName>
+                      <Index>0</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <Sound>9818759</Sound>
+              </Item>
+            </BuildSuccessful>
+          </ConstructionSounds>
+          <IncidentSounds>
+            <InfectedFire>
+              <Item>
+                <Sound>214659</Sound>
+              </Item>
+            </InfectedFire>
+          </IncidentSounds>
+          <BuildingRepaired>
+            <Item>
+              <Sound>203866</Sound>
+            </Item>
+          </BuildingRepaired>
+          <MaterialType>Soil</MaterialType>
+        </SoundEmitter>
+        <FeedbackController />
+        <Infolayer />
+        <UpgradeList />
+        <Factory7 />
+        <FactoryBase />
+        <LogisticNode />
+        <AmbientMoodProvider>
+            <AmbientMood>ResidenceTier1</AmbientMood>
+            <DynamicEnvironmentType>Building_Residence</DynamicEnvironmentType>
+        </AmbientMoodProvider>
+        <Pausable />
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>2000</Amount>
+              <InactiveAmount>1000</InactiveAmount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+
+        <Attackable>
+          <MaximumHitPoints>3500</MaximumHitPoints>
+          <SelfHealPerHealTick>6</SelfHealPerHealTick>
+        </Attackable>
+          <Explosion>
+            <ExplosionCoreDamage>1000</ExplosionCoreDamage>
+            <DamageExplosionChance>38</DamageExplosionChance>
+            <DamageExplosionCheckMax>40</DamageExplosionCheckMax>
+            <DamageExplosionCheckMax>40</DamageExplosionCheckMax>
+          </Explosion>
+		
+        <Culture>
+        </Culture>
+        <QuestObject />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Bourse Description -->
+  <ModOp GUID="11149" Type="AddNextSibling">
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>600038111</GUID>
+          <Name>Bourse</Name>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Through these gilded marble halls run the Empire's wildblooded arteries of unregulated finance and commerce; here, territorial warfare meets its match in financial warfare.</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>31281</LineID>
+        </Text>
+      </Values>
+    </Asset>
+  </ModOp>	
+	
+    <!-- Bourse Forward Buff -->
+ 
+  <ModOp Type="addNextSibling" GUID='500901'>
+    <Asset>
+      <Template>GuildhouseBuff</Template>
+      <Values>
+        <Standard>
+          <GUID>600038131</GUID>
+          <Name>Bourse Forward Buff - Finance</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_financialization_0.png</IconFilename>
+          <InfoDescription>600038133</InfoDescription>
+        </Standard>
+        <ItemEffect>
+          <EffectTargets>		  
+              <!-- Investor Residences -->
+			<Item>
+              <GUID>194026</GUID>
+            </Item>
+              <!-- Investor Skyscrapers -->
+			<Item>
+              <GUID>136179</GUID>
+            </Item>			
+              <!-- Engineer Residences -->
+            <Item>
+              <GUID>193861</GUID>
+            </Item>
+              <!-- Engineer Skyscrapers -->
+            <Item>
+              <GUID>194020</GUID>
+            </Item>			
+              <!--All Production -->
+            <Item>
+              <GUID>6000018</GUID>
+            </Item>
+              <!--All Assembly Lines -->
+            <Item>
+              <GUID>194023</GUID>
+            </Item>
+              <!--All Artisan Workshops -->
+            <Item>
+              <GUID>194024</GUID>
+            </Item>			
+          </EffectTargets>
+          <AllowStacking>0</AllowStacking>
+        </ItemEffect>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Financialization</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>45716</LineID>
+        </Text>
+		
+        <FactoryUpgrade>
+          <ProductivityUpgrade>
+            <Value>15</Value>
+            <Percental>1</Percental>
+          </ProductivityUpgrade>
+        </FactoryUpgrade>
+
+        <BuildingUpgrade>
+          <MaintenanceUpgrade>			
+          </MaintenanceUpgrade>
+          <WorkforceAmountUpgrade>
+            <Value>-25</Value>
+            <Percental>1</Percental>
+          </WorkforceAmountUpgrade>
+                          <PublicServiceFullSatisfactionDistance>
+                            <Value>25</Value>
+                            <Percental>1</Percental>
+                          </PublicServiceFullSatisfactionDistance>
+                          <PublicServiceNoSatisfactionDistance>
+                            <Value>25</Value>
+                            <Percental>1</Percental>
+                          </PublicServiceNoSatisfactionDistance>				  
+        </BuildingUpgrade>
+        <Buff />
+		
+        <CultureUpgrade> 
+            <AttractivenessUpgrade>
+                <Value></Value>
+            </AttractivenessUpgrade>
+        </CultureUpgrade>
+                            <InfluenceSourceUpgrade>
+                              <InfluenceAmounUpgrade>
+                                <Value>1</Value>
+                              </InfluenceAmounUpgrade>
+                            </InfluenceSourceUpgrade>		
+        <ResidenceUpgrade>
+							<TaxModifierInPercent>
+                                <Value>35</Value>
+							</TaxModifierInPercent>									
+							<AdditionalHappiness></AdditionalHappiness>
+                              <IncidentRiotIncreaseUpgrade>
+                              </IncidentRiotIncreaseUpgrade>
+                              <IncidentExplosionIncreaseUpgrade>
+                                <Value>10</Value>
+                              </IncidentExplosionIncreaseUpgrade>
+                              <IncidentRiotIncreaseUpgrade>
+                                <Value>50</Value>
+                              </IncidentRiotIncreaseUpgrade>
+          <GoodConsumptionUpgrade>	  
+            <Item>
+              <ProvidedNeed>1010247</ProvidedNeed>
+              <AmountInPercent>25</AmountInPercent>
+            </Item>
+		  <Item>
+              <ProvidedNeed>1010257</ProvidedNeed>
+              <AmountInPercent>25</AmountInPercent>
+            </Item>
+		  <Item>
+              <ProvidedNeed>120016</ProvidedNeed>
+              <AmountInPercent>25</AmountInPercent>
+            </Item>
+		  <Item>
+              <ProvidedNeed>1010246</ProvidedNeed>
+              <AmountInPercent>25</AmountInPercent>
+            </Item>
+            <Item>
+              <ProvidedNeed>1010250</ProvidedNeed>
+              <AmountInPercent>25</AmountInPercent>
+            </Item>
+          </GoodConsumptionUpgrade>							  
+        </ResidenceUpgrade>
+		
+        <ModuleOwnerUpgrade />
+        <IncidentInfectableUpgrade />
+        <PowerplantUpgrade />
+        <IndustrializableUpgrade />
+        <ItemContainerUpgrade />
+        <IncidentInfluencerUpgrade />
+        <IrrigationUpgrade />
+      </Values>
+    </Asset>
+  </ModOp>
+  
+  <!-- Forward Buff Description -->
+  <ModOp GUID="11149" Type="AddNextSibling">
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>600038133</GUID>
+          <Name>Bourse Forward Buff - Finance</Name>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>The frenzy rises, the ticker tape ticks on, the market surges, the telegraph buzzes, the schemes abound, on and on...</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>31281</LineID>
+        </Text>
+      </Values>
+    </Asset>
+  </ModOp>
+	
+ 
+ <!-- Building Modifiers -->
+
+       <!-- Feedback Effects -->   
+	<ModOp Type="add" GUID='2001090' Path="/Values/FeedbackBuildingGroup/Buildings">
+        <Item>
+			<Building>600038110</Building>
+		</Item>		
+    </ModOp>
+	<ModOp Type="add" GUID='2001091' Path="/Values/FeedbackBuildingGroup/Buildings">
+        <Item>
+			<Building>600038110</Building>
+		</Item>		
+    </ModOp>
+
+	<!-- add to the building pool -->	
+ 	<ModOp Type="add" GUID='190597,191365,191366,193876,193877,193878' Path="/Values/ItemEffect/EffectTargets">
+        <Item>
+			<GUID>600038110</GUID>
+		</Item>		
+    </ModOp>
+ 	<ModOp Type="add" GUID='190136' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+			<GUID>600038110</GUID>
+		</Item>	
+    </ModOp>	
+  
+    
+ </ModOps>

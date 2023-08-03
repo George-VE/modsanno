@@ -1,0 +1,21 @@
+<ModOps>
+  <!-- # Modular Factories -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010600</GUID> <!-- cannot use AssetData text -->
+      <Text>Фабрика швейных машин</Text> <!-- building: sewing machines -->
+    </Text>
+  </ModOp>
+
+  <!-- # Modular Factories menu -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010601</GUID>
+      <Text>Модульные фабрики</Text> <!-- menu: modular factories -->
+    </Text>
+    <Text>
+      <GUID>1500010602</GUID>
+      <Text>Несколько фабрик совмещаются в один огромный завод</Text> <!-- menu desc: modular factories -->
+    </Text>
+  </ModOp>
+</ModOps>

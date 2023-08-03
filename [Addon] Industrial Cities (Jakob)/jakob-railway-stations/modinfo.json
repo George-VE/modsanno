@@ -1,0 +1,48 @@
+{
+  "Version": "1.2.2",
+  "ModID": "jakob-railway-stations",
+  "DeprecateIds": [
+    "jakob_railway"
+  ],
+  "Category": {
+    "English": "Building",
+    "Chinese": "Building",
+    "French": "Building",
+    "German": "Building",
+    "Italian": "Building",
+    "Japanese": "Building",
+    "Korean": "Building",
+    "Polish": "Building",
+    "Russian": "Building",
+    "Spanish": "Building",
+    "Taiwanese": "Building"
+  },
+  "ModName": {
+    "English": "Railway Stations (Jakob)",
+    "Chinese": "Railway Stations (Jakob)",
+    "French": "Railway Stations (Jakob)",
+    "German": "Railway Stations (Jakob)",
+    "Italian": "Railway Stations (Jakob)",
+    "Japanese": "Railway Stations (Jakob)",
+    "Korean": "Railway Stations (Jakob)",
+    "Polish": "Railway Stations (Jakob)",
+    "Russian": "Railway Stations (Jakob)",
+    "Spanish": "Railway Stations (Jakob)",
+    "Taiwanese": "Railway Stations (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "# Railway Stations\n\n## Buildings\n\nDynamic railway freight and passenger platforms.\n\n## Skins\n\nRandomized freight trains.\n\n## Changes\n\n- 1.2.2: Russian translation\n- 1.2.1: Fixed blurry icons\n- 1.2: Added passengers to T crossing platforms.\n- 1.1: Added random freight trains.\n\n## Translations\n\nThanks to Tonton Yip, mfuegar, DrD_AVEL for the translations!\n\n[Project on GitHub](https://github.com/jakobharder/anno-1800-jakobs-mods)\n",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

@@ -1,0 +1,73 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>Siegssäule</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>Nadaskysäule</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>Hafen-Siegessäule</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>Siegesbogen</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>Obelisk der Königin</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>Obelisk von Papst Lucius IV. </Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>Kolonialer Torbogen</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>König-George-Monument</Text>
+		</Text>
+
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>Diese Säule erinnert an einen Sieg, sei er groß oder klein.</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>Eine prächtige Säule, die zu Ehren von Admiral Nadasky für seinen Sieg bei Kap Trelawney am 15. Oktober 1805 errichtet wurde.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>Ein dekorativer Torbogen zu Ehren eines Ereignisses oder einer Person.</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>Ein kleines Denkmal für die geliebte Königin des Imperiums.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>Dieses Denkmal wurde auf Anordnung von Papst Lucius IV. errichtet, um die weltlichen Städte des Imperiums daran zu erinnern, dass die perfekte Stadt nur jenseits des irdischen Reiches existieren kann.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>Dieser Torbogen wurde aus den Steinen der eroberten Festungen von La Corona konstruiert und erinnert an die neu gewonnene Freiheit der Neuen Welt, Bananen und Kaffee für das Imperium zu pflücken.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>Trotz der ambivalenten Beziehung des Imperiums zum verstorbenen König George erinnert dieses Denkmal an seine Herrschaft und die Enbesa-Expedition von 1801, die spät in seiner Regierungszeit durchgeführt wurde.</Text>
+		</Text>
+		
+	</ModOp>
+</ModOps>

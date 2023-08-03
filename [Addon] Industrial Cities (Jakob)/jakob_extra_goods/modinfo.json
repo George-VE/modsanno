@@ -1,0 +1,45 @@
+{
+  "Version": "3.1",
+  "ModID": "jakob_extra_goods",
+  "Category": {
+    "English": "Deprecated",
+    "Chinese": "Deprecated",
+    "French": "Deprecated",
+    "German": "Deprecated",
+    "Italian": "Deprecated",
+    "Japanese": "Deprecated",
+    "Korean": "Deprecated",
+    "Polish": "Deprecated",
+    "Russian": "Deprecated",
+    "Spanish": "Deprecated",
+    "Taiwanese": "Deprecated"
+  },
+  "ModName": {
+    "English": "Extra Goods (Jakob)",
+    "Chinese": "Extra Goods (Jakob)",
+    "French": "Extra Goods (Jakob)",
+    "German": "Extra Goods (Jakob)",
+    "Italian": "Extra Goods (Jakob)",
+    "Japanese": "Extra Goods (Jakob)",
+    "Korean": "Extra Goods (Jakob)",
+    "Polish": "Extra Goods (Jakob)",
+    "Russian": "Extra Goods (Jakob)",
+    "Spanish": "Extra Goods (Jakob)",
+    "Taiwanese": "Extra Goods (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "README.md",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

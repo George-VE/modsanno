@@ -1,0 +1,459 @@
+ <!-- Senate -->
+<ModOps>
+ 
+ <!-- UNHIDE -->
+ 
+ <!-- OW Unhide -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130248']">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>600017110</GUID>
+          <Name>intermediate moderate 4.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+        </Standard>
+        <Trigger>
+ 	 <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>				
+                    </UnlockAssets>
+                    <UnhideAssets>
+                      	<Item>
+                        <Asset>600037110</Asset>
+                      	</Item>						
+                    </UnhideAssets>
+                    <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>  
+ 
+ 
+ <!-- OW Unlock -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130248']">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>600017111</GUID>
+          <Name>intermediate moderate 4.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+        </Standard>
+        <Trigger>
+ 	 <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000004</Context>
+                <CounterAmount>11000</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+					<UnlockAssets>
+						<Item>
+						<Asset>600037110</Asset>
+                    	</Item>						
+                    </UnlockAssets>
+                    <UnhideAssets>				
+                    </UnhideAssets>
+                    <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>  
+
+ <!-- OW Construction Menu -->
+  
+    <!-- Menu Location OW Pop Tier --> 
+  <ModOp Type="addNextSibling" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building='501488']">
+    <Item>
+      <Building>600037110</Building>
+    </Item>
+  </ModOp>  
+  
+   <!-- Menu Location OW Building Type -->   
+   <ModOp Type="addNextSibling" GUID='500944' Path="/Values/ConstructionCategory/BuildingList/Item[Building='1010364']">
+   <Item>
+      <Building>600037110</Building>
+    </Item>
+  </ModOp>
+  
+ <!-- Asset -->
+
+    <!-- National Civic Hall -->	
+  <ModOp Type="addNextSibling" GUID='1010372'>	
+    <Asset>
+      <Template>GasometerBuffableOrnamentalBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>600037110</GUID>
+          <Name>National Civic Hall</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_senate.png</IconFilename>
+          <InfoDescription>600037111</InfoDescription>
+        </Standard>
+        <Building>
+          <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+          <BuildingType>Other</BuildingType>
+          <BuildingCategoryName>100005</BuildingCategoryName>
+          <SkipUnlockMessage>1</SkipUnlockMessage>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+          <AllowChangeVariation>1</AllowChangeVariation>
+	  <SecondPartyRelevant>0</SecondPartyRelevant>
+        </Building>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>300000</Amount>
+            </Item>
+                                <Item>
+                                  <Ingredient>1010196</Ingredient>
+                                  <Amount>150</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010205</Ingredient>
+                                  <Amount>175</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010218</Ingredient>
+                                  <Amount>75</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010207</Ingredient>
+                                  <Amount>50</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010231</Ingredient>
+                                  <Amount>125</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010202</Ingredient>
+                                  <Amount>100</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010242</Ingredient>
+                                  <Amount>50</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>120044</Ingredient>
+                                  <Amount>35</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010249</Ingredient>
+                                  <Amount>50</Amount>
+                                </Item>
+                                <Item>
+                                  <Ingredient>1010204</Ingredient>
+                                  <Amount>75</Amount>
+                                </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+                                <Item>
+                                  <Filename>data/moddinggraphics_17/buildings/public/senate/senate.cfg</Filename>
+                                </Item>
+                                <Item>
+                                  <Filename>data/moddinggraphics_17/buildings/public/senate/court.cfg</Filename>
+                                </Item>			
+          </Variations>
+        </Object>
+        <Mesh />
+        <Selection>
+          <Colors>
+            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+          </Colors>
+        </Selection>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>National Civic Hall</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>36269</LineID>
+        </Text>
+        <Constructable />
+        <BuffFactory>
+          <ProductionBuffDistance>35</ProductionBuffDistance>
+          <BaseBuffDistance>35</BaseBuffDistance>
+          <BaseBuff>600037121</BaseBuff>
+          <BaseBuffScope>Radius</BaseBuffScope>
+          <ProductionBuffScope>Radius</ProductionBuffScope>
+        </BuffFactory>
+        <Locked />
+        <Ornament>
+          <PlazzaSize>0</PlazzaSize>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescription>600037111</OrnamentDescription>
+        </Ornament>
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>242757</Sound>
+            </Item>
+          </ActiveSounds>
+          <ConstructionSounds>
+            <BuildSuccessful>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>0</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>FarmBuilding</TemplateName>
+                      <Index>0</Index>
+                    </Entry>
+                    <Entry>
+                      <TemplateName>HeavyFreeAreaBuilding</TemplateName>
+                      <Index>0</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <Sound>9818759</Sound>
+              </Item>
+            </BuildSuccessful>
+          </ConstructionSounds>
+          <IncidentSounds>
+            <InfectedFire>
+              <Item>
+                <Sound>214659</Sound>
+              </Item>
+            </InfectedFire>
+          </IncidentSounds>
+          <BuildingRepaired>
+            <Item>
+              <Sound>203866</Sound>
+            </Item>
+          </BuildingRepaired>
+          <MaterialType>Soil</MaterialType>
+        </SoundEmitter>
+        <FeedbackController />
+        <Infolayer />
+        <UpgradeList />
+        <Factory7 />
+        <FactoryBase />
+        <LogisticNode />
+        <AmbientMoodProvider>
+            <AmbientMood>ResidenceTier1</AmbientMood>
+            <DynamicEnvironmentType>Building_Residence</DynamicEnvironmentType>
+        </AmbientMoodProvider>
+        <Pausable />
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>2250</Amount>
+              <InactiveAmount>1000</InactiveAmount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+
+        <Attackable>
+          <MaximumHitPoints>3500</MaximumHitPoints>
+          <SelfHealPerHealTick>6</SelfHealPerHealTick>
+        </Attackable>
+          <Explosion>
+            <ExplosionCoreDamage>1000</ExplosionCoreDamage>
+            <DamageExplosionChance>38</DamageExplosionChance>
+            <DamageExplosionCheckMax>40</DamageExplosionCheckMax>
+            <DamageExplosionCheckMax>40</DamageExplosionCheckMax>
+          </Explosion>
+		
+        <Culture>
+          <Attractiveness>75</Attractiveness>
+        </Culture>
+        <QuestObject />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- National Civic Hall Description -->
+  <ModOp GUID="11149" Type="AddNextSibling">
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>600037111</GUID>
+          <Name>National Civic Hall</Name>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>A magnificent landmark and venue for a rich variety of sophisticated regional events, ranging from balls and concerts, to criminal trials and exhibitions of academic art.</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>31281</LineID>
+        </Text>
+      </Values>
+    </Asset>
+  </ModOp>	
+
+    <!-- National Civic Hall Forward Buff -->
+
+  <ModOp Type="addNextSibling" GUID='500901'>
+    <Asset>
+      <Template>GuildhouseBuff</Template>
+      <Values>
+        <Standard>
+          <GUID>600037121</GUID>
+          <Name>Civic Hall Forward Buff - Influence</Name>
+          <IconFilename>data/ui/2kimages/main/icons/icon_socialseason.png</IconFilename>
+          <InfoDescription>600037123</InfoDescription>
+        </Standard>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <!-- Investor Residences -->
+              <GUID>194026</GUID>
+            </Item>
+          </EffectTargets>
+          <AllowStacking>1</AllowStacking>
+        </ItemEffect>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>The Social Season</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>45716</LineID>
+        </Text>
+        <FactoryUpgrade/>
+        <BuildingUpgrade>
+                          <PublicServiceFullSatisfactionDistance>
+                            <Value>25</Value>
+                            <Percental>1</Percental>
+                          </PublicServiceFullSatisfactionDistance>
+                          <PublicServiceNoSatisfactionDistance>
+                            <Value>25</Value>
+                            <Percental>1</Percental>
+                          </PublicServiceNoSatisfactionDistance>		  
+        </BuildingUpgrade>
+        <Buff />
+		
+        <CultureUpgrade> 
+            <AttractivenessUpgrade>
+                <Value>2</Value>
+            </AttractivenessUpgrade>
+        </CultureUpgrade>
+                            <InfluenceSourceUpgrade>
+                              <InfluenceAmounUpgrade>
+                                <Value>1</Value>
+                              </InfluenceAmounUpgrade>
+                            </InfluenceSourceUpgrade>		
+        <ResidenceUpgrade>
+          <AdditionalHappiness>5</AdditionalHappiness>
+          <GoodConsumptionUpgrade>	  
+          </GoodConsumptionUpgrade>
+        </ResidenceUpgrade>
+		
+        <ModuleOwnerUpgrade />
+        <IncidentInfectableUpgrade />
+        <PowerplantUpgrade />
+        <IndustrializableUpgrade />
+        <ItemContainerUpgrade />
+        <IncidentInfluencerUpgrade />
+        <IrrigationUpgrade />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Forward Buff Description -->
+  <ModOp GUID="11149" Type="AddNextSibling">
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>600037123</GUID>
+          <Name>Civic Hall Forward Buff - Influence</Name>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>The social season is a sumptious and boozy period of the year, when the rich and powerful descend onto the city from their estates to rub shoulders and develop grudges.</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>31281</LineID>
+        </Text>
+      </Values>
+    </Asset>
+  </ModOp>
+ 
+ 
+ <!-- Building Modifiers -->
+
+       <!-- Feedback Effects -->   
+	<ModOp Type="add" GUID='2001090' Path="/Values/FeedbackBuildingGroup/Buildings">
+        <Item>
+			<Building>600037110</Building>
+		</Item>		
+    </ModOp>
+	<ModOp Type="add" GUID='2001091' Path="/Values/FeedbackBuildingGroup/Buildings">
+        <Item>
+			<Building>600037110</Building>
+		</Item>	
+    </ModOp>
+
+	<!-- add to the building pool -->	
+ 	<ModOp Type="add" GUID='190607,191363,191364,' Path="/Values/ItemEffect/EffectTargets">
+        <Item>
+			<GUID>600037110</GUID>
+		</Item>
+    </ModOp>
+ 	<ModOp Type="add" GUID='190136' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+			<GUID>600037110</GUID>
+		</Item>	
+    </ModOp>	
+  
+    
+ </ModOps>

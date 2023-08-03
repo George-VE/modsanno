@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>National Civic Hall</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>A magnificent landmark and venue for a rich variety of sophisticated regional events, ranging from balls and concerts, to criminal trials and exhibitions of academic art.</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>The Social Season</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>The Social Season</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>The social season is a sumptious and boozy period of the year, when the rich and powerful descend onto the city from their estates to rub shoulders and develop grudges.</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

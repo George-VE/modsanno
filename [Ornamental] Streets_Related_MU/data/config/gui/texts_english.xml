@@ -1,0 +1,367 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<!-- Round StreetCovers -->
+		<Text>
+		  <GUID>1337502500</GUID>
+		  <Text>Crossing ONE-ONE Cover V1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502510</GUID>
+		  <Text>Crossing ONE-ONE Cover V1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502511</GUID>
+		  <Text>Crossing ONE-ONE Cover V2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502501</GUID>
+		  <Text>Crossing ONE-ONE Cover V2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502502</GUID>
+		  <Text>Crossing ONE-TWO Cover</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502512</GUID>
+		  <Text>Crossing ONE-TWO Cover</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502503</GUID>
+		  <Text>Crossing TWO-TWO Cover</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502513</GUID>
+		  <Text>Crossing TWO-TWO Cover</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502530</GUID>
+		  <Text>Crossing ONE-ONE Cover V1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502531</GUID>
+		  <Text>Crossing ONE-ONE Cover V2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502532</GUID>
+		  <Text>Crossing ONE-TWO Cover</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502533</GUID>
+		  <Text>Crossing TWO-TWO Cover</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502514</GUID>
+		  <Text>Bridge for road construction &lt;br/&gt;without lanterns&lt;br/&gt;overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502515</GUID>
+		  <Text>Bridge for road construction &lt;br/&gt;with lanterns&lt;br/&gt;overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502516</GUID>
+		  <Text>Bridge for road construction &lt;br/&gt;covered&lt;br/&gt;overbuildable</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502520</GUID>
+		  <Text>Pedestrian bridge &lt;br/&gt;without lanterns&lt;br/&gt;overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502521</GUID>
+		  <Text>Pedestrian bridge &lt;br/&gt;with lanterns&lt;br/&gt;overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502522</GUID>
+		  <Text>Pedestrian bridge &lt;br/&gt;covered&lt;br/&gt;overbuildable</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502523</GUID>
+		  <Text>Railway bridge &lt;br/&gt;without lanterns&lt;br/&gt;overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502524</GUID>
+		  <Text>Railway bridge &lt;br/&gt;with lanterns&lt;br/&gt;overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502525</GUID>
+		  <Text>Modular bridge &lt;br/&gt;overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502526</GUID>
+		  <Text>Modular railway bridge &lt;br/&gt;overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502527</GUID>
+		  <Text>Modular end pieces &lt;br/&gt;overbuildable</Text>
+		</Text>
+		<!-- Round StreetCovers Buildmenu -->
+		<Text>
+		  <GUID>1337502504</GUID>
+		  <Text>All on the subject of "Streets"</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502552</GUID>
+		  <Text>All on the subject of "Streets"&lt;br/&gt;[AssetData(116345) Text]</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502505</GUID>
+		  <Text>Everything that has to do directly with "Streets" can be found here.</Text>
+		</Text>
+		<!-- CO2 Objects -->
+		<Text>
+		  <GUID>1337500183</GUID>
+		  <Text>Cemetery paths &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500245</GUID>
+		  <Text>Alley of Trees &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500246</GUID>
+		  <Text>Mossy path &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500247</GUID>
+		  <Text>Old Cobblestone Path &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500248</GUID>
+		  <Text>Cobblestone Road &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500249</GUID>
+		  <Text>Sidewalk &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500250</GUID>
+		  <Text>Covered Promenade &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501339</GUID>
+		  <Text>[AssetData(24770) Text] &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501341</GUID>
+		  <Text>[AssetData(25224) Text]  &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500053</GUID>
+		  <Text>Plaza Ground  &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500147</GUID>
+		  <Text>Covered Promenade &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502614</GUID>
+		  <Text>[AssetData(7895) Text] &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500055</GUID>
+		  <Text>Natural water channel</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500063</GUID>
+		  <Text>Natural water channel</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502518</GUID>
+		  <Text>Build-over channel &lt;br/&gt;for modular bridge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502528</GUID>
+		  <Text>Build-over channel &lt;br/&gt;for modular bridge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502529</GUID>
+		  <Text>Build-over channel &lt;br/&gt;for modular bridge</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502600</GUID>
+		  <Text>Cobblestone &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502601</GUID>
+		  <Text>Light cobblestone &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501370</GUID>
+		  <Text>Hacienda Pavement Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501372</GUID>
+		  <Text>Hacienda Way Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500030</GUID>
+		  <Text>Noble Street</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500032</GUID>
+		  <Text>Noble Street</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500034</GUID>
+		  <Text>Gravel path</Text>
+		</Text>
+		
+		<!-- HO2 Objects -->
+		<Text>
+		  <GUID>1337500251</GUID>
+		  <Text>Fake Rails</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500289</GUID>
+		  <Text>Ornamental copy of the railway tracks</Text>.
+		</Text>
+		
+		<Text>
+		  <GUID>1337501028</GUID>
+		  <Text>[AssetData(601443) Text] red</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501031</GUID>
+		  <Text>Metal [AssetData(601443) Text]</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501032</GUID>
+		  <Text>Stone bridges [AssetData(601443) Text]</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501036</GUID>
+		  <Text>Rock face [AssetData(601443) Text]</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501039</GUID>
+		  <Text>Rock face [AssetData(601443) Text]&lt;br/&gt;Covered</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501042</GUID>
+		  <Text>Walkways [AssetData(601443) Text]</Text>
+		</Text>
+		
+		<!-- Round StreetCovers Harbor -->
+		<Text>
+		  <GUID>1337502558</GUID>
+		  <Text>Bridge for road construction &lt;br/&gt;Ohne Laternen&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502559</GUID>
+		  <Text>Bridge for road construction &lt;br/&gt;Ohne Laternen&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502560</GUID>
+		  <Text>Bridge for road construction &lt;br/&gt;Ohne Laternen&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502564</GUID>
+		  <Text>Railway bridge &lt;br/&gt;Without Lanterns</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502565</GUID>
+		  <Text>Railway bridge &lt;br/&gt;With Laternen</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502566</GUID>
+		  <Text>Modular bridge &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502568</GUID>
+		  <Text>End piece &lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;&lt;br/&gt;Overbuildable</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502582</GUID>
+		  <Text>Modular pedestrian bridge &lt;br/&gt;Overbuildable</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502583</GUID>
+		  <Text>Modular pedestrian bridge End piece&lt;br/&gt;Overbuildable</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502587</GUID>
+		  <Text>Modular Railway bridge 1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502567</GUID>
+		  <Text>Modular Railway bridge 2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502569</GUID>
+		  <Text>End piece Railway bridge&lt;br/&gt;1+2</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502581</GUID>
+		  <Text>Modular [AssetData(1010136) Text] 1</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502584</GUID>
+		  <Text>Modular [AssetData(1010136) Text] 2</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502585</GUID>
+		  <Text>Modular [AssetData(1010136) Text] 3</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502586</GUID>
+		  <Text>Modular [AssetData(1010136) Text] 4</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501057</GUID>
+		  <Text>Wooden Bridge (2x1)&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501058</GUID>
+		  <Text>Wooden Bridge (3x1)&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502611</GUID>
+		  <Text>[AssetData(132597) Text] (2x1)&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502612</GUID>
+		  <Text>[AssetData(132597) Text] (3x1)&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502613</GUID>
+		  <Text>[AssetData(132597) Text] (3x1)&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337502615</GUID>
+		  <Text>[AssetData(112132) Text] [AssetData(102099) Text] 1&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502616</GUID>
+		  <Text>[AssetData(112132) Text] [AssetData(102099) Text] 2&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502617</GUID>
+		  <Text>[AssetData(112132) Text] [AssetData(102099) Text] 3&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502618</GUID>
+		  <Text>[AssetData(112132) Text] [AssetData(102099) Text] 4&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502619</GUID>
+		  <Text>[AssetData(112132) Text] [AssetData(102099) Text] 5&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		<Text>
+		  <GUID>1337502620</GUID>
+		  <Text>[AssetData(112132) Text] [AssetData(102099) Text] 6&lt;br/&gt;&lt;font color="#1ab394"&gt;&lt;b&gt;[AssetData(11153) Text]&lt;/b&gt;&lt;/font&gt;</Text>
+		</Text>
+		
+  </ModOp>
+</ModOps>

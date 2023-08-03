@@ -1,0 +1,20 @@
+<ModOps>
+  <Include File="/features.include.xml" />
+
+  <!-- # Harborlife Fix -->
+  <!-- just in case people didn't update and blame upgradable worker for it -->
+  <ModOp Type="replace" GUID="1440137000" Condition="~" Path="/Values/Upgradable">
+    <Upgradable>
+      <NextGUID>0</NextGUID>
+    </Upgradable>
+  </ModOp>
+
+  <!-- # NW Tourism Fix -->
+  <ModOp Type="replace" AllowNoMatch="1"
+    Path="//ItemEffect/EffectTargets/Item[GUID='1440134394']">
+    <Item>
+      <GUID>25677</GUID>
+    </Item>
+  </ModOp>
+</ModOps>
+<!-- force cache refresh: 1690104627152 -->

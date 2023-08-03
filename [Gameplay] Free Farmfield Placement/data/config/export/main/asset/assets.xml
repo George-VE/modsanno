@@ -1,0 +1,242 @@
+<ModOps>
+
+    <!--agriculture_01 (Grain Farm)-->
+    <ModOp Type="add" GUID="1010262" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="1010262" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>37</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_03 (Hop Farm)-->
+    <ModOp Type="add" GUID="1010264" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="1010264" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>30</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_04 (Potato Farm)-->
+    <ModOp Type="add" GUID="1010265" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="1010265" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>26</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_11 (Bell Pepper Farm)-->
+    <ModOp Type="add" GUID="100654" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="100654" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>32</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_10 (Vineyard)-->
+    <ModOp Type="add" GUID="100655" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="100655" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>34</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony01_01 (Sugar Cane Farm)-->
+    <ModOp Type="add" GUID="1010329" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="1010329" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>34</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony01_02 (Tobacco Farm)-->
+    <ModOp Type="add" GUID="1010330" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="1010330" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>42</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony01_03 (Cotton Farm)-->
+    <ModOp Type="add" GUID="1010331" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="1010331" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>37</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony01_04 (Cocoa Farm)-->
+    <ModOp Type="add" GUID="1010332" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="1010332" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>34</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony01_05 (Caoutchouc Farm)-->
+    <ModOp Type="add" GUID="1010333" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="1010333" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>37</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony01_07 (Coffee Beans Farm)-->
+    <ModOp Type="add" GUID="101251" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="101251" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>40</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony01_08 (Banana Farm)-->
+    <ModOp Type="add" GUID="101263" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="101263" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>34</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony01_10 (Corn Farm)-->
+    <ModOp Type="add" GUID="101270" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="101270" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>40</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_01 (Grain Farm)-->
+    <ModOp Type="add" GUID="269850" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="269850" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>37</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_01 (Grain Farm)-->
+    <ModOp Type="add" GUID="269851" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="269851" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>37</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony02_02 (Flax Farm)-->
+    <ModOp Type="add" GUID="114448" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="114448" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>30</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony02_03 (Hibiscus)-->
+    <ModOp Type="add" GUID="114447" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="114447" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>37</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony02_04 (Teff Farm)-->
+    <ModOp Type="add" GUID="114450" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="114450" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>40</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony02_05 (Indigo Farm)-->
+    <ModOp Type="add" GUID="114451" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="114451" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>37</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony02_06 (Spice Grower)-->
+    <ModOp Type="add" GUID="114452" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="114452" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>34</ModuleBuildRadius>
+    </ModOp>
+
+    <!--agriculture_colony02_07 (Beekeeper)-->
+    <ModOp Type="add" GUID="114453" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="114453" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>42</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm blank-->
+    <ModOp Type="add" GUID="24794" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="24794" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm Sugar Cane-->
+    <ModOp Type="add" GUID="24798" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="24798" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm Corn-->
+    <ModOp Type="add" GUID="25003" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="25003" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm Coffee-->
+    <ModOp Type="add" GUID="25005" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="25005" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm Caoutchouc-->
+    <ModOp Type="add" GUID="25006" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="25006" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm Cocoa-->
+    <ModOp Type="add" GUID="25009" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="25009" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm Potatoes-->
+    <ModOp Type="add" GUID="25019" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="25019" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm Spices-->
+    <ModOp Type="add" GUID="25020" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="25020" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+
+    <!--Hacienda universal farm Grain-->
+    <ModOp Type="add" GUID="25128" Path="/Values/ModuleOwner">     
+        <AdditionalModuleMustBeMainBuildingAdjacent>0</AdditionalModuleMustBeMainBuildingAdjacent>
+    </ModOp>
+    <ModOp Type="merge" GUID="25128" Path="/Values/ModuleOwner">        
+        <ModuleBuildRadius>24</ModuleBuildRadius>
+    </ModOp>
+</ModOps>

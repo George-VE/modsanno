@@ -1,0 +1,51 @@
+{
+  "Version": "1.3.3",
+  "ModID": "skin-factory-variants-jakob",
+  "DeprecateIds": [
+    "jakob_production_variations"
+  ],
+  "ModDependencies": [
+    "shared-ground-textures-industry-jakob"
+  ],
+  "Category": {
+    "English": "Skin",
+    "Chinese": "Skin",
+    "French": "Skin",
+    "German": "Skin",
+    "Italian": "Skin",
+    "Japanese": "Skin",
+    "Korean": "Skin",
+    "Polish": "Skin",
+    "Russian": "Skin",
+    "Spanish": "Skin",
+    "Taiwanese": "Skin"
+  },
+  "ModName": {
+    "English": "Factory Variants (Jakob)",
+    "Chinese": "Factory Variants (Jakob)",
+    "French": "Factory Variants (Jakob)",
+    "German": "Factory Variants (Jakob)",
+    "Italian": "Factory Variants (Jakob)",
+    "Japanese": "Factory Variants (Jakob)",
+    "Korean": "Factory Variants (Jakob)",
+    "Polish": "Factory Variants (Jakob)",
+    "Russian": "Factory Variants (Jakob)",
+    "Spanish": "Factory Variants (Jakob)",
+    "Taiwanese": "Factory Variants (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "# Factory Variants\n\nShift+V variations for production buildings.\n\nAI will also build these variations.\n\n⚠ If you are missing ground textures: make sure to update `[Shared] Ground Textures`.\n\nBuildings:\n\n- Fur Dealer: 3 new variations\n- Bakery: 2 new variations (+ Shift+G for stone pavement)\n- Cannery: 2 new variations\n- more will follow ...\n\n## Notes\n\n`Shift+V` is blocked on already built buildings.\nYou can either change the variation before you build it, or pick it up again and change then.\n\n## Changes\n\n### 1.3\n\n- 1.3.2: Russian translation\n- 1.3.1: Updated Spanish translations\n- Changed concrete pavement Shift+G to skin\n\n### 1.2\n\n- Fixed mirrored bakery sign\n- Changed stone pavement from skin to Shift+G due to annoying paintbrush button position\n\n### 1.1\n\n- Added bakery variations\n\n## Translations\n\nThanks to DrD_AVEL for the translations!\n\n[Project on GitHub](https://github.com/jakobharder/anno-1800-jakobs-mods)\n",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

@@ -1,0 +1,1814 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+		  <GUID>1337500245</GUID>
+		  <Text>Allée d'arbres (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500246</GUID>
+		  <Text>Chemin embourgeoisé (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500247</GUID>
+		  <Text>Ancien chemin pavé (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500248</GUID>
+		  <Text>Rue pavée (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500249</GUID>
+		  <Text>Chemin de promenade (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500250</GUID>
+		  <Text>Promenade couverte (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500251</GUID>
+		  <Text>Faux rails</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500252</GUID>
+		  <Text>Faux rails portuaires</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500253</GUID>
+		  <Text>Clôture de luxe</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500254</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500255</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500256</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500257</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500258</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500259</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500260</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500261</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500262</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500263</GUID>
+		  <Text>Locomotive avec wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500264</GUID>
+		  <Text>Wagons de marchandises en vrac</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500265</GUID>
+		  <Text>Remorque de transport pour les marchandises de la société de consommation.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500266</GUID>
+		  <Text>Chaudière Wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500267</GUID>
+		  <Text>Tout ce qui est liquide doit être mis ici.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500268</GUID>
+		  <Text>Wagons d'invités</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500269</GUID>
+		  <Text>Un voyage en train offre à chaque fois des vues magnifiques</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500270</GUID>
+		  <Text>Wagons de marchandises</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500271</GUID>
+		  <Text>Vite, dépêchez-vous de charger, il pleut.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500272</GUID>
+		  <Text>Wagons ouverts</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500273</GUID>
+		  <Text>Ce n'est pas si sensible, cela peut être mis là.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500274</GUID>
+		  <Text>Pelleteuse</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500275</GUID>
+		  <Text>Pousse tout devant lui.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500276</GUID>
+		  <Text>Chaînes à godets Pelleteuse</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500277</GUID>
+		  <Text>Charbon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500278</GUID>
+		  <Text>Charbon chargement</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500279</GUID>
+		  <Text>Veuillez rentrer pour le chargement.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500280</GUID>
+		  <Text>Salle de maintenance</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500281</GUID>
+		  <Text>Ces solides gaillards ont aussi besoin de soins.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500282</GUID>
+		  <Text>Bureau d'expédition</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500283</GUID>
+		  <Text>Veuillez remplir le formulaire d'enregistrement et vous mettre en file... Suivant!</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500284</GUID>
+		  <Text>Système d'aiguillage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500285</GUID>
+		  <Text>Où est donc passé le train de 10 h 30 ?</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500286</GUID>
+		  <Text>Chargement des céréales</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500287</GUID>
+		  <Text>Le moulin a commandé pas mal de céréales aujourd'hui.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500288</GUID>
+		  <Text>Grue de chargement</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500289</GUID>
+		  <Text>Copie purement ornementale des rails de chemin de fer</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500290</GUID>
+		  <Text>Copie purement ornementale des rails de chemin de fer pour le port</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500291</GUID>
+		  <Text> Relie les bâtiments et permet le transport de marchandises, mais n'affiche pas de superposition de portée.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500292</GUID>
+		  <Text>Clôtures, portails et chemins</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500293</GUID>
+		  <Text>Bâtiment de gare industrielle</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500294</GUID>
+		  <Text>Lampes industrielles simples</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500295</GUID>
+		  <Text>Lampes industrielles doubles</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500296</GUID>
+		  <Text>Grande fontaine Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500297</GUID>
+		  <Text>Grande fontaine Plaque</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500298</GUID>
+		  <Text>Colonne de la victoire avec sol en pavé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500299</GUID>
+		  <Text>Vous êtes un grand général ! Votre glorieux règne est à son zénith. Votre peuple vous admire profondément. Il est maintenant temps de couronner votre triomphe par une colonne de victoire.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500300</GUID>
+		  <Text>Colonne de la victoire avec plancher de la place</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500301</GUID>
+		  <Text>Colonne de victoire avec fondation et sol décorés</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500302</GUID>
+		  <Text>Colonne de victoire avec fondation décorée et sol pavé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500303</GUID>
+		  <Text>Colonne de victoire avec fondation classique et sol pavé</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500304</GUID>
+		  <Text>Palissade d'angle</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500305</GUID>
+		  <Text>Barrières fermées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500306</GUID>
+		  <Text>Tschutschuuu,veuillez reculer</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500307</GUID>
+		  <Text>Barrières ouvertes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500308</GUID>
+		  <Text>Barrières animées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500309</GUID>
+		  <Text>Doubles barrières animées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500310</GUID>
+		  <Text>Arbres avec banc</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500311</GUID>
+		  <Text>Jardin et arbres paysagers</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500312</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500313</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500314</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500315</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500316</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500317</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500318</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500319</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500320</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500321</GUID>
+		  <Text>Locomotive avec wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500322</GUID>
+		  <Text>Wagons de marchandises en vrac</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500323</GUID>
+		  <Text>Chaudière wagon</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500324</GUID>
+		  <Text>Wagons d'invités</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500325</GUID>
+		  <Text>Wagons de marchandises</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500326</GUID>
+		  <Text>Wagons de marchandises ouverts</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500327</GUID>
+		  <Text>Excavatrice</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500328</GUID>
+		  <Text>Chaînes à godets Pelleteuse</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500329</GUID>
+		  <Text>Industrie Gare Véhicules Port</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500330</GUID>
+		  <Text>Gare industrielle Bâtiment Port</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500331</GUID>
+		  <Text>Charbon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500332</GUID>
+		  <Text>Charbon chargement</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500333</GUID>
+		  <Text>Salle de maintenance</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500334</GUID>
+		  <Text>Bureau d'expédition</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500335</GUID>
+		  <Text>Poste d'aiguillage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500336</GUID>
+		  <Text>Chargement de céréales</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500337</GUID>
+		  <Text>Grue de chargement</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500338</GUID>
+		  <Text>Lampes industrielles simples</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500339</GUID>
+		  <Text>Lampes industrielles doubles</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500340</GUID>
+		  <Text>Barrières fermées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500341</GUID>
+		  <Text>Barrières ouvertes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500342</GUID>
+		  <Text>Barrières animées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500343</GUID>
+		  <Text>Doubles barrières animées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500344</GUID>
+		  <Text>Ornement du bâtiment principal de la ville de stockage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500345</GUID>
+		  <Text>Dépôt de la ville de stockage Ornement</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500346</GUID>
+		  <Text>Amarrage de la ville de stockage Ornement</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500347</GUID>
+		  <Text>Cité du stockage Capitainerie Ornement</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500348</GUID>
+		  <Text>Bureau d'exportation de la ville de stockage Ornament</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500349</GUID>
+		  <Text>Grue de réparation Ornament de Speicherstadt</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500350</GUID>
+		  <Text>Quai de chargement de la ville d'entreposage Ornement</Text>
+		</Text>
+		
+		
+		<Text>
+		  <GUID>1337500030</GUID>
+		  <Text>Rue de Noble</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500069</GUID>
+		  <Text>Une rue noble pour la haute société.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500031</GUID>
+		  <Text>Pont de la rue noble</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500032</GUID>
+		  <Text>Rue Noble</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500070</GUID>
+		  <Text>Une rue noble , assortie au palais.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500033</GUID>
+		  <Text>Pont de la rue noble</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500034</GUID>
+		  <Text>Chemin de terre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500071</GUID>
+		  <Text>Une route de campagne en dur. Pour les zones rurales.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500035</GUID>
+		  <Text>Pont du chemin de terre</Text>.
+		</Text>
+		
+		<Text>
+		  <GUID>1337500036</GUID>
+		  <Text>Organisations routières</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500037</GUID>
+		  <Text>Un petit coin sympa au bord de la route.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500038</GUID>
+		  <Text>Une jolie place pavée attire les touristes.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500039</GUID>
+		  <Text>Sol de la place</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500040</GUID>
+		  <Text>Plaza sol</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500041</GUID>
+		  <Text>Sol Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500042</GUID>
+		  <Text>Sol Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500043</GUID>
+		  <Text>Sol Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500044</GUID>
+		  <Text>Plaza sol</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500045</GUID>
+		  <Text>Plaza sol</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500046</GUID>
+		  <Text>Plaza sol</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500047</GUID>
+		  <Text>Sol Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500048</GUID>
+		  <Text>Sol Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500049</GUID>
+		  <Text>Sol Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500050</GUID>
+		  <Text>Plaza sol</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500051</GUID>
+		  <Text>Sol Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500052</GUID>
+		  <Text>Plaza Sol (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500053</GUID>
+		  <Text>Plaza Sol (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500054</GUID>
+		  <Text>Plaza Sol</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500055</GUID>
+		  <Text>Canal d'eau naturel</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500056</GUID>
+		  <Text>Canal d'eau naturel</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500057</GUID>
+		  <Text>Pont canal d'eau</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500058</GUID>
+		  <Text>Pont canal d'eau</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500059</GUID>
+		  <Text>Pont canal d'eau</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500060</GUID>
+		  <Text>Pont canal d'eau</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500061</GUID>
+		  <Text>Pont-rail canal d'eau</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500062</GUID>
+		  <Text>Pont-rail canal d'eau</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500063</GUID>
+		  <Text>Canal d'eau aménagé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500064</GUID>
+		  <Text>Les canaux d'eau et les bassins , créés par la nature ou par l'homme, offrent toujours un moment de fraîcheur et de rafraîchissement.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500065</GUID>
+		  <Text>Gueule d'eau simple</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500066</GUID>
+		  <Text>Gueule d'eau quadruple</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500067</GUID>
+		  <Text>Routes et canaux AW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500068</GUID>
+		  <Text>Des rues nobles et des sols pavés colorés mettent en valeur la beauté des canaux d'eau.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500072</GUID>
+		  <Text>Routes et canaux NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500073</GUID>
+		  <Text>Routes et canaux Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500074</GUID>
+		  <Text>Points de repère</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500075</GUID>
+		  <Text>Muggi CO2-2.5</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500351</GUID>
+		  <Text>Muggi CO2-2.5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501430</GUID>
+		  <Text>Muggi CO2-2.5</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501431</GUID>
+		  <Text>Muggi CO2-2.5</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500076</GUID>
+		  <Text>1x1 statues</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500077</GUID>
+		  <Text>S'adapte à toutes les niches et honore ce qui est honorable .</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500078</GUID>
+		  <Text>1x1 Fontaine</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500079</GUID>
+		  <Text>2x2 statues</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500080</GUID>
+		  <Text>2x2 fontaines</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500081</GUID>
+		  <Text>2x3 fontaines</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500082</GUID>
+		  <Text>4x5 fontaines</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500083</GUID>
+		  <Text>4x5 statues</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500084</GUID>
+		  <Text>Passages</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500085</GUID>
+		  <Text>Le passage vous laisse dans un grand étonnement.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500086</GUID>
+		  <Text>Statues et fontaines</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500087</GUID>
+		  <Text>Une magnifique statue ou une fontaine rafraîchissante, les deux ne peuvent pas manquer dans une grande ville.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500088</GUID>
+		  <Text>Canal couvert avec fontaines</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500089</GUID>
+		  <Text>Canal couvert</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500090</GUID>
+		  <Text>Canal avec fontaines</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500091</GUID>
+		  <Text>Canal</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500092</GUID>
+		  <Text>Clôture de ferme</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500093</GUID>
+		  <Text>Pont canal couvert</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500094</GUID>
+		  <Text>Clôture d'ouvrier</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500095</GUID>
+		  <Text>Clôture d'ouvrier</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500096</GUID>
+		  <Text>Clôture d'ingénieur</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500097</GUID>
+		  <Text>Clôture pour investisseurs</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500098</GUID>
+		  <Text>Clôture de cimetière</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500099</GUID>
+		  <Text>Pont du canal</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500100</GUID>
+		  <Text>Chutes d'eau</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500101</GUID>
+		  <Text>Café au bord du lac</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500102</GUID>
+		  <Text>Plantes en pots et parterres de fleurs</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500103</GUID>
+		  <Text>Plantes en pots sur socle</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500104</GUID>
+		  <Text>Plantes en pots Clôturées</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500105</GUID>
+		  <Text>Plantes en pots Normal</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500106</GUID>
+		  <Text>Petits arbres et arbustes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500107</GUID>
+		  <Text>Pot de fleurs sur socle</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500108</GUID>
+		  <Text>Pot de fleurs</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500109</GUID>
+		  <Text>Grand bac à fleurs</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500110</GUID>
+		  <Text>Bouquet AW Blanc</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500111</GUID>
+		  <Text>Bouquet de fleurs AW jaune</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500112</GUID>
+		  <Text>Bouquet de fleurs AW rouge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500113</GUID>
+		  <Text>Bouquet de fleurs AW bleu</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500114</GUID>
+		  <Text>Bouquet AW Violet</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500115</GUID>
+		  <Text>Bouquet NW Orange</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500116</GUID>
+		  <Text>Bouquet NW blanc</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500117</GUID>
+		  <Text>Bouquet NW rouge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500118</GUID>
+		  <Text>Bouquet NW bleu</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500119</GUID>
+		  <Text>Bouquet AW Blanc Mélangé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500120</GUID>
+		  <Text>Bouquet de fleurs AW jaune mélangé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500121</GUID>
+		  <Text>Bouquet de fleurs AW Rouge mélangé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500122</GUID>
+		  <Text>Bouquet AW Bleu Mixte</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500123</GUID>
+		  <Text>Bouquet AW Violet mélangé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500124</GUID>
+		  <Text>Bouquet NW Orange mélangé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500125</GUID>
+		  <Text>Bouquet NW Blanc Mélangé</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500126</GUID>
+		  <Text>Bouquet NW Rouge Mixte</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500127</GUID>
+		  <Text>Bouquet NW Bleu Mixte</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500128</GUID>
+		  <Text>Ornements de la ville</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500129</GUID>
+		  <Text>Les ornements urbains embellissent la ville et apportent de la variété.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500130</GUID>
+		  <Text>Bancs à 2 places avec personnes</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500131</GUID>
+		  <Text>Qui n'aime pas se reposer dans de beaux endroits.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500132</GUID>
+		  <Text>Bancs pour 2 personnes sans personnes</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500133</GUID>
+		  <Text>2 places sans banquette et personnes</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500134</GUID>
+		  <Text>Bancs 1 place</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500135</GUID>
+		  <Text>Bancs d'angle 1 place</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500136</GUID>
+		  <Text>Bancs centre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500137</GUID>
+		  <Text>Arche de porte</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500138</GUID>
+		  <Text>Panneaux publicitaires Anno Autopromotion</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500139</GUID>
+		  <Text>La publicité est la clé du succès.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500140</GUID>
+		  <Text>Panneau publicitaire produits ingame</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500141</GUID>
+		  <Text>Panneau d'affichage Mods</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500142</GUID>
+		  <Text>Colonnes lumineuses</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500143</GUID>
+		  <Text>Drapeaux</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500144</GUID>
+		  <Text>Montrer un drapeau, tant que ce n'est pas un drapeau de bière.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500145</GUID>
+		  <Text>Passerelle pour piétons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500146</GUID>
+		  <Text>Ici, on peut traverser la rue en toute sécurité.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500147</GUID>
+		  <Text>Promenade couverte (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500148</GUID>
+		  <Text>La reine en personne s'est déjà pavanée dans ces allées. </Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500149</GUID>
+		  <Text>Couverture des rues</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500150</GUID>
+		  <Text>Cela permet de protéger un certain nombre de choses contre les intempéries.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500151</GUID>
+		  <Text>Vallée d'Ornamel Places de marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500152</GUID>
+		  <Text>Les places de marché avec une seule fonction : être beau.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500153</GUID>
+		  <Text>Personnes</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500154</GUID>
+		  <Text>Porte de clôture de ferme</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500155</GUID>
+		  <Text>Les clôtures protègent vos biens et sont très esthétiques.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500156</GUID>
+		  <Text>Portes de clôture pour ouvriers</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500157</GUID>
+		  <Text>Clôture ouvrière Portail</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500158</GUID>
+		  <Text>Clôture d'ingénieur Portail</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500159</GUID>
+		  <Text>Clôture pour investisseurs Portail</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500160</GUID>
+		  <Text>Porte du cimetière</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500161</GUID>
+		  <Text>Arche de porte pour clôtures ingame</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500162</GUID>
+		  <Text>Champs de toutes sortes et de toutes couleurs</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500163</GUID>
+		  <Text>Qu'il s'agisse de champs de fleurs, de tombes ou d'enclos pour chevaux, tous ont un point commun : la terre.</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500164</GUID>
+		  <Text>Champ de fleurs AW Blanc</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500165</GUID>
+		  <Text>Champ de fleurs AW jaune</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500166</GUID>
+		  <Text>Champ de fleurs AW rouge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500167</GUID>
+		  <Text>Champ de fleurs AW bleu</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500168</GUID>
+		  <Text>Champ de fleurs AW Violet</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500169</GUID>
+		  <Text>Champ de fleurs NW Orange</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500170</GUID>
+		  <Text>Champ de fleurs NW blanc</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500171</GUID>
+		  <Text>Champ de fleurs NW rouge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500172</GUID>
+		  <Text>Champ de fleurs NW bleu</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500173</GUID>
+		  <Text>Tombes des pauvres</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500174</GUID>
+		  <Text>Riches ou pauvres, ils reposent ici en paix.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500175</GUID>
+		  <Text>Tombes de travailleurs</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500176</GUID>
+		  <Text>Tombes d'artisans</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500177</GUID>
+		  <Text>Cavité modeste</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500178</GUID>
+		  <Text>Cuveau supérieur</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500179</GUID>
+		  <Text>Cuveau de luxe</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500180</GUID>
+		  <Text>Statues de cimetière</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500181</GUID>
+		  <Text>Bâtiment du cimetière</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500182</GUID>
+		  <Text>Installations de cérémonie</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500183</GUID>
+		  <Text>Chemins de cimetière (route)</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500184</GUID>
+		  <Text>Enclos pour chevaux</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500185</GUID>
+		  <Text>Le bonheur de la terre est sur le dos des chevaux.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500186</GUID>
+		  <Text>Abris droit</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500187</GUID>
+		  <Text>Abri de coin</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500188</GUID>
+		  <Text>Salle d'équitation</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500189</GUID>
+		  <Text>Bâtiment annexe</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500190</GUID>
+		  <Text>Forteresse</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500191</GUID>
+		  <Text>Les anciens murs du château témoignent d'une ville ancienne et prospère.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500192</GUID>
+		  <Text>Arche de porte Inoccupée</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500193</GUID>
+		  <Text>Arche de porte Gardée</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500194</GUID>
+		  <Text>Segments végétalisés</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500195</GUID>
+		  <Text>Segments non végétalisés</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500196</GUID>
+		  <Text>Segment arqué</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500197</GUID>
+		  <Text>Tours de garde</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500198</GUID>
+		  <Text>Tours de garde Octogone</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500199</GUID>
+		  <Text>Tours d'angle</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500200</GUID>
+		  <Text>Arche de porte non gardée</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500201</GUID>
+		  <Text>Arche de porte Gardée</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500202</GUID>
+		  <Text>Mur segment</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500203</GUID>
+		  <Text>Tours de garde</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500204</GUID>
+		  <Text>Tours d'angle</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500205</GUID>
+		  <Text>Grandes fortifications</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500206</GUID>
+		  <Text>Petits ouvrages fortifiés</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500207</GUID>
+		  <Text>Cabanes d'habitation</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500208</GUID>
+		  <Text>Maisons d'habitation</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500209</GUID>
+		  <Text>Etalons de marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500210</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500211</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500212</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500213</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500214</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500215</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500216</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500217</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500218</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500219</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500220</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500221</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500222</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500223</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500224</GUID>
+		  <Text>Stand du marché</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500225</GUID>
+		  <Text>Marché aux bestiaux</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501338</GUID>
+		  <Text>Ici on fait comme s'il n'y avait pas de lendemain</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501339</GUID>
+		  <Text>Pavage de l'hacienda (route)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501340</GUID>
+		  <Text>Pavés Hacienda (ornement)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501341</GUID>
+		  <Text>Chemin de la Hacienda (rue)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501342</GUID>
+		  <Text>Chemin de la Hacienda (ornement)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501343</GUID>
+		  <Text>Parterre de fleurs jaunes (palmier NW)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501344</GUID>
+		  <Text>Parterre de fleurs rouges (palmier NW)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501345</GUID>
+		  <Text>Bouquet de fleurs violettes (palmier NW)</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>134742</GUID>
+		  <Text>Bouquet de fleurs jaunes (arbre à feuilles caduques AW)</Text>
+		</Text>
+		<Text>
+		  <GUID>134741</GUID>
+		  <Text>Bouquet de fleurs rouges (AW feuillu)</Text>
+		</Text>
+		<Text>
+		  <GUID>134720</GUID>
+		  <Text>Bouquet violet (AW feuillu)</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500226</GUID>
+		  <Text>Marché des investisseurs</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501337</GUID>
+		  <Text>Les investisseurs apprécient la fraîcheur qui leur est offerte ici</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500238</GUID>
+		  <Text>marché des fermiers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500240</GUID>
+		  <Text>Les gens se rencontrent aussi ici pour de belles conversations tout en vendant leur bétail reproducteur</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500241</GUID>
+		  <Text>Gare industrielle Véhicules</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500242</GUID>
+		  <Text>À peu près tout ce dont on a besoin pour une gare de marchandises</Text>.
+		</Text>
+		
+		<Text>
+		  <GUID>1337500227</GUID>
+		  <Text>Tour Eiffel</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500228</GUID>
+		  <Text>Bénédiction de Gustave Eiffel</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500229</GUID>
+		  <Text>Champs agricoles et pâturages pour animaux</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500230</GUID>
+		  <Text>Un petit jardinet ou un enclos pour animaux pour les paysans.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500231</GUID>
+		  <Text>Enclos pour chevaux</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500232</GUID>
+		  <Text>Enclos des chèvres</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500233</GUID>
+		  <Text>Enclos des bœufs</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500234</GUID>
+		  <Text>Enclos des bisons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500235</GUID>
+		  <Text>Enclos des buffles d'eau</Text>
+		</Text>
+		
+		
+		<Text>
+		  <GUID>1337501346</GUID>
+		  <Text>Végétalisation clôturée NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501347</GUID>
+		  <Text>Arbre clôturé NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501348</GUID>
+		  <Text>Canalisation NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501349</GUID>
+		  <Text>Canalisations NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501350</GUID>
+		  <Text>Champ de céréales</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501351</GUID>
+		  <Text>Champ de houblon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501352</GUID>
+		  <Text>Champ de pommes de terre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501353</GUID>
+		  <Text>Vignoble</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501354</GUID>
+		  <Text>Champ de poivrons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501355</GUID>
+		  <Text>Champ de canne à sucre</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501356</GUID>
+		  <Text>Champ de tabac</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501357</GUID>
+		  <Text>Champ de coton</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501358</GUID>
+		  <Text>Cacaoyer</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501359</GUID>
+		  <Text>Plantation de caoutchouc</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501360</GUID>
+		  <Text>Champ de café</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501361</GUID>
+		  <Text>Bananeraie</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501362</GUID>
+		  <Text>Champ de maïs</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501363</GUID>
+		  <Text>Enclos des bovins</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501364</GUID>
+		  <Text>Engraissement de moutons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501365</GUID>
+		  <Text>Etable à cochons</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501366</GUID>
+		  <Text>Enclos pour bovins NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501367</GUID>
+		  <Text>Pâturage d'alpagas</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501368</GUID>
+		  <Text>Enclos des oies</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501369</GUID>
+		  <Text>Exercice de Husky</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501370</GUID>
+		  <Text>Rue des pavés de la Hacienda</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501371</GUID>
+		  <Text>Pont de la rue pavée Hacienda</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501372</GUID>
+		  <Text>Chemin Hacienda Rue</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501373</GUID>
+		  <Text>Chemin Hacienda Rue Pont</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501374</GUID>
+		  <Text>Canal d'eau aménagé NW</Text>
+		</Text>
+		
+		
+		<Text>
+		  <GUID>1337501375</GUID>
+		  <Text>Sauve- eau simple NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501376</GUID>
+		  <Text>Gueule d'eau quadruple NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501377</GUID>
+		  <Text>Panneau indicateur NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501378</GUID>
+		  <Text>1x1 statues NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501379</GUID>
+		  <Text>1x1 fontaine NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501380</GUID>
+		  <Text>2x2 statues NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501381</GUID>
+		  <Text>2x2 fontaines NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501382</GUID>
+		  <Text>2x3 fontaines NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501383</GUID>
+		  <Text>4x5 fontaines NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501384</GUID>
+		  <Text>4x5 statues NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501385</GUID>
+		  <Text>Passages NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501386</GUID>
+		  <Text>Plantes en pots sur socle NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501387</GUID>
+		  <Text>Plantes en pots Clôturées NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501388</GUID>
+		  <Text>Plantes en pots normales NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501389</GUID>
+		  <Text>Petits arbres et arbustes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501390</GUID>
+		  <Text>Pot de fleurs sur socle NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501391</GUID>
+		  <Text>Pot à fleurs NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501392</GUID>
+		  <Text>Grand bac à fleurs NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501393</GUID>
+		  <Text>Bancs 2 places avec personnes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501394</GUID>
+		  <Text>Bancs 2 places sans personnes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501395</GUID>
+		  <Text>2 places sans banquette et personnes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501396</GUID>
+		  <Text>Bancs 1 personne NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501397</GUID>
+		  <Text>Bancs 1 place angle NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501398</GUID>
+		  <Text>Bancs centre NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501399</GUID>
+		  <Text>Arche de porte NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501400</GUID>
+		  <Text>Panneaux publicitaires Anno Autopromotion NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501401</GUID>
+		  <Text>Panneau publicitaire produits ingame NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501402</GUID>
+		  <Text>Panneau d'affichage Mods NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501403</GUID>
+		  <Text>Colonnes lumineuses NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501404</GUID>
+		  <Text>Drapeaux NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501405</GUID>
+		  <Text>Passerelle pour piétons NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501406</GUID>
+		  <Text>Couverture de route NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501407</GUID>
+		  <Text>Statues et fontaines NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501408</GUID>
+		  <Text>Personnes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501409</GUID>
+		  <Text>Ornements de la ville NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501410</GUID>
+		  <Text>Clôture d'investisseur NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501411</GUID>
+		  <Text>Clôture de luxe NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501412</GUID>
+		  <Text>Skin pour investisseurs NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501413</GUID>
+		  <Text>Marché magnifique NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501414</GUID>
+		  <Text>Marché en plein air NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501415</GUID>
+		  <Text>Haie droite NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501416</GUID>
+		  <Text>Clôture NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501417</GUID>
+		  <Text>Entrée large NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501418</GUID>
+		  <Text>Arche de porte NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501419</GUID>
+		  <Text>Jeux d'eau NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501420</GUID>
+		  <Text>Clôture droite décorée NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501421</GUID>
+		  <Text>Arc de portail décoré NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501422</GUID>
+		  <Text>Haie droite décorée NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501423</GUID>
+		  <Text>Entrée décorée NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501424</GUID>
+		  <Text>Clôture en acier décorée NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501425</GUID>
+		  <Text>Porte en maçonnerie de briques NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501426</GUID>
+		  <Text>Mur de briques NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501427</GUID>
+		  <Text>Entrée de mur basse NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501428</GUID>
+		  <Text>Arche de mur basse NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501429</GUID>
+		  <Text>Mur bas NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501436</GUID>
+		  <Text>Jardin d'iris NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501437</GUID>
+		  <Text>Jardin de camélias NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501438</GUID>
+		  <Text>Jardin de marguerites jaunes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501439</GUID>
+		  <Text>Jardin de pétunias rouges et blancs NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501440</GUID>
+		  <Text>Jardin d'althéas NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501441</GUID>
+		  <Text>Jardin de gentianes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501442</GUID>
+		  <Text>Jardin de lys NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501443</GUID>
+		  <Text>Jardin de soucis NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501444</GUID>
+		  <Text>Allée de topiaires NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501445</GUID>
+		  <Text>Labyrinthe végétal NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501446</GUID>
+		  <Text>Jardin de topiaires NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501447</GUID>
+		  <Text>Embellissements (allée) NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501449</GUID>
+		  <Text>Dépôt NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501450</GUID>
+		  <Text>Dépôt Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501452</GUID>
+		  <Text>Embarcadère NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501453</GUID>
+		  <Text>Embarcadère Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501454</GUID>
+		  <Text>Capitainerie NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501455</GUID>
+		  <Text>Capitainerie Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501456</GUID>
+		  <Text>Bureau des exportations NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501457</GUID>
+		  <Text>Bureau des exportations Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501458</GUID>
+		  <Text>Grue de réparation NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501459</GUID>
+		  <Text>Grue de réparation Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501460</GUID>
+		  <Text>Quai de chargement NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501461</GUID>
+		  <Text>Quai de chargement Enbesa</Text>
+		</Text>
+	</ModOp>
+</ModOps>
